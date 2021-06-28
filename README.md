@@ -159,7 +159,7 @@
 **秋招学习内容：面试技巧、简历制作、企业选择等面试痛点问题分享** <br>
 **常规直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
 
-![image](https://github.com/0voice/interview_internal_reference/blob/master/contact.jpg)
+![image](contact.jpg)
 
 
 
