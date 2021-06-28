@@ -28,6 +28,17 @@
 ---
 ##### [1.计蒜客：置换的玩笑（DFS）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/%E8%AE%A1%E8%92%9C%E5%AE%A2%EF%BC%9A%E7%BD%AE%E6%8D%A2%E7%9A%84%E7%8E%A9%E7%AC%91%EF%BC%88DFS%EF%BC%89.cpp)
 
+##### 2.整数的划分
+##### 3.DP+四边形不等式优化（hdu 3506 Monkey Party）
+##### 4.快餐（hoj 1005 fast food）
+##### 5.hoj 1031完全背包Piggy-Bank
+##### 6.数字金字塔（hoj 1058Number Triangles）
+##### 7.肥猫的表亲（hoj 1061Fat Cat's cousin II）
+##### 8.加建楼梯（hoj 1090The Staircases）
+##### 9.公共子序列（hoj 1227 Common Subsequence）
+##### 10.桥接的信号（hoj 1288 Bridging Signals）
+
+
 
 <br>
 
