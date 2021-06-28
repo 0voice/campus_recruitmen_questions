@@ -26,7 +26,7 @@
 <h3 id="1">ACM</h3> 
 
 ---
-##### [1 计蒜客：置换的玩笑（DFS）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/%E8%AE%A1%E8%92%9C%E5%AE%A2%EF%BC%9A%E7%BD%AE%E6%8D%A2%E7%9A%84%E7%8E%A9%E7%AC%91%EF%BC%88DFS%EF%BC%89.cpp)
+##### [1.计蒜客：置换的玩笑（DFS）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/%E8%AE%A1%E8%92%9C%E5%AE%A2%EF%BC%9A%E7%BD%AE%E6%8D%A2%E7%9A%84%E7%8E%A9%E7%AC%91%EF%BC%88DFS%EF%BC%89.cpp)
 
 
 <br>
