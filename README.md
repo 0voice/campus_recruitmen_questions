@@ -946,6 +946,76 @@
 <h3 id="19">字符串</h3> 
 
 ---
+##### 1、(14) Longest Common Prefix
+##### 2、(20) Valid Parentheses
+##### 3、(921) Minimum Add to Make Parentheses Valid
+##### 4、(28) Implement strStr()
+##### 5、(38) Count and Say
+##### 6、(443) String Compression
+##### 7、(125) Valid Palindrome
+##### 8、(680) Valid Palindrome II
+##### 9、(151) Reverse Words in a String
+##### 10、(344) Reverse String
+##### 11、(242) Valid Anagram
+##### 12、(438) Find All Anagrams in a String
+##### 13、(3) Longest Substring Without Repeating Characters
+##### 14、(387) First Unique Character in a String
+##### 15、(58) Length of Last Word
+##### 16、(205) Isomorphic Strings
+##### 17、(290) Word Pattern
+##### 18、(890) Find and Replace Pattern
+##### 19、(917) Reverse Only Letters
+##### 20、(345)Reverse Vowels of a String
+##### 21、(383) Ransom Note
+##### 22、(925) Long Pressed Name
+##### 23、(929) Unique Email Addresses
+##### 24、(409) Longest Palindrome
+##### 25、(434) Number of Segments in a String
+##### 26、(500) Keyboard Row
+##### 27、(520) Detect Capital
+##### 28、(541) Reverse String II
+##### 29、(551) Student Attendance Record I
+##### 30、(557) Reverse Words in a String III
+##### 31、(657) Robot Return to Origin
+##### 32、(696) Count Binary Substrings
+##### 33、(709) To Lower Case
+##### 34、(771) Jewels and Stones
+##### 35、(784) Letter Case Permutation
+##### 36、(788) Rotated Digits
+##### 37、(796) Rotate String
+##### 38、(804) Unique Morse Code Words
+##### 39、(806) Number of Lines To Write String
+##### 40、(819) Most Common Word
+##### 41、(821) Shortest Distance to a Character
+##### 42、(824) Goat Latin
+##### 43、(844) Backspace String Compare
+##### 44、(859) Buddy Strings
+##### 45、(893) Groups of Special-Equivalent Strings
+##### 46、(1003) Check If Word Is Valid After Substitutions
+##### 47、(17) Letter Combinations of a Phone Number
+##### 48、(1023) Binary String With Substrings Representing 1 To N
+##### 49、(482) License Key Formatting
+##### 50、(1071) Greatest Common Divisor of Strings
+##### 51、(1156) Swap For Longest Repeated Character Substring
+##### 52、(1106) Parsing A Boolean Expression
+##### 53、(1408) String Matching in an Array
+##### 54、(791) Custom Sort String
+##### 55、(678) Valid Parenthesis String
+##### 56、(1419) Minimum Number of Frogs Croaking
+##### 57、(1358) Number of Substrings Containing All Three Characters
+##### 58、(1309) Decrypt String from Alphabet to Integer Mapping
+##### 59、(1545) Find Kth Bit in Nth Binary String
+##### 60、(777) Swap Adjacent in LR String
+##### 61、(539) Minimum Time Difference
+##### 62、(459) Repeated Substring Pattern
+##### 63、(165) Compare Version Numbers
+##### 64、(1371) Find the Longest Substring Containing Vowels in Even Counts
+##### 65、(443) String Compression
+##### 66、(809) Expressive Words
+##### 67、(833) Find And Replace in String
+##### 68、最长单词
+##### 69、模式匹配
+##### 70、(1638)Count Substrings That Differ by One Character
 
 <br>
 
