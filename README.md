@@ -918,12 +918,158 @@
 <h3 id="16">树</h3> 
 
 ---
+##### 1、 树的定义
+##### 2、（144） Binary Tree Preorder Traversal
+##### 3、（589） N-ary Tree Preorder Traversal
+##### 4、（94） Binary Tree Inorder Traversal
+##### 5、（145） Binary Tree Postorder Traversal
+##### 6、（590） N-ary Tree Postorder Traversal
+##### 7、（100） Same Tree
+##### 8、（101） Symmetric Tree
+##### 9、（104） Maximum Depth of Binary Tree
+##### 10、（559） Maximum Depth of N-ary Tree
+##### 11、（111） Minimum Depth of Binary Tree
+##### 12、（105） Construct Binary Tree from Preorder and Inorder Traversal
+##### 13、（106） Construct Binary Tree from Inorder and Postorder Traversal
+##### 14、（889） Construct Binary Tree from Preorder and Postorder Traversal
+##### 15、（572） Subtree of Another Tree
+##### 16、（102） Binary Tree Level Order Traversal
+##### 17、（103） Binary Tree Zigzag Level Order Traversal
+##### 18、（107） Binary Tree Level Order Traversal II
+##### 19、（429） N-ary Tree Level Order Traversal
+##### 20、（637） Average of Levels in Binary Tree
+##### 21、（515） Find Largest Value in Each Tree Row
+##### 22、（987） Vertical Order Traversal of a Binary Tree
+##### 23、（257） Binary Tree Paths
+##### 24、（988） Smallest String Starting From Leaf
+##### 25、（112） Path Sum
+##### 26、（113） Path Sum II
+##### 27、（297） Serialize and Deserialize Binary Tree
+##### 28、（110） Balanced Binary Tree
+##### 29、（108） Convert Sorted Array to Binary Search Tree
+##### 30、（235） Lowest Common Ancestor of a Binary Search Tree
+##### 31、（404） Sum of Left Leaves
+##### 32、（938） Range Sum of BST
+##### 33、（530） Minimum Absolute Difference in BST
+##### 34、（783） Minimum Distance Between BST Nodes
+##### 35、（538） Convert BST to Greater Tree
+##### 36、（958） Check Completeness of a Binary Tree
+##### 37、（543） Diameter of Binary Tree
+##### 38、（965） Univalued Binary Tree
+##### 39、（563） Binary Tree Tilt
+##### 40、（606） Construct String from Binary Tree
+##### 41、（617） Merge Two Binary Trees
+##### 42、（653） Two Sum IV - Input is a BST
+##### 43、（669） Trim a Binary Search Tree
+##### 44、（671） Second Minimum Node In a Binary Tree
+##### 45、（687） Longest Univalue Path
+##### 46、（700） Search in a Binary Search Tree
+##### 47、（872） Leaf-Similar Trees
+##### 48、（897） Increasing Order Search Tree
+##### 49、（993） Cousins in Binary Tree
+##### 50、（230） Kth Smallest Element in a BST
+##### 51、（98） Validate Binary Search Tree
+##### 52、（109） Convert Sorted List to Binary Search Tree
+##### 53、（1008） Construct Binary Search Tree from Preorder Traversal
+##### 54、（236） Lowest Common Ancestor of a Binary Tree
+##### 55、（654） Maximum Binary Tree
+##### 56、（513） Find Bottom Left Tree Value
+##### 57、（814） Binary Tree Pruning
+##### 58、（199） Binary Tree Right Side View
+##### 59、（662） Maximum Width of Binary Tree
+##### 60、（222） Count Complete Tree Nodes
+##### 61、（1022） Sum of Root To Leaf Binary Numbers
+##### 62、（1026） Maximum Difference Between Node and Ancestor
+##### 63、（1038） Binary Search Tree to Greater Sum Tree
+##### 64、（1080） Insufficient Nodes in Root to Leaf Paths
+##### 65、（1161） Maximum Level Sum of a Binary Tree
+##### 66、（1104） Path In Zigzag Labelled Binary Tree
+##### 67、（1110） Delete Nodes And Return Forest
+##### 68、（1123） Lowest Common Ancestor of Deepest Leaves
+##### 69、（1382） Balance a Binary Search Tree
+##### 70、（1372） Longest ZigZag Path in a Binary Tree
+##### 71、（1367） Linked List in Binary Tree
+##### 72、（124） Binary Tree Maximum Path Sum
+##### 73、（1443） Minimum Time to Collect All Apples in a Tree
+##### 74、（1339） Maximum Product of Splitted Binary Tree
+##### 75、（1315） Sum of Nodes with Even-Valued Grandparent
+##### 76、（1457） Pseudo-Palindromic Paths in a Binary Tree
+##### 77、（129） Sum Root to Leaf Numbers
+##### 78、（114） Flatten Binary Tree to Linked List
+##### 79、（450） Delete Node in a BST
+##### 80、（971） Flip Binary Tree To Match Preorder Traversal
+##### 81、（951） Flip Equivalent Binary Trees
+##### 82、（863） All Nodes Distance K in Binary Tree
+##### 83、（865） Smallest Subtree with all the Deepest Nodes
+##### 84、（1373） Maximum Sum BST in Binary Tree
+##### 85、（501） Find Mode in Binary Search Tree
+##### 86、（968） Binary Tree Cameras
+##### 87、（116） Populating Next Right Pointers in Each Node
+##### 88、（117） 填充每个节点的下一个右侧节点指针 II
+##### 89、（834） Sum of Distances in Tree]
+##### 90、（655） Print Binary Tree
+##### 91、（307） Range Sum Query - Mutable
+##### 92、（652） Find Duplicate Subtrees
+##### 93、（1028） Recover a Tree From Preorder Traversal
 
 <br>
 
 <h3 id="17">图</h3> 
 
 ---
+##### 1、（990） Satisfiability of Equality Equations
+##### 2、（997） Find the Town Judge
+##### 3、（133） Clone Graph
+##### 4、（1334） Find the City With the Smallest Number of Neighbors at a Threshold Distance
+##### 5、（1267） Count Servers that Communicate
+##### 6、（886） Possible Bipartition
+##### 7、（207） Course Schedule
+##### 8、（1462） Course Schedule IV
+##### 9、（1466） Reorder Routes to Make All Paths Lead to the City Zero
+##### 10、（1210） Minimum Moves to Reach Target with Rotations
+##### 11、（1202） Smallest String With Swaps
+##### 12、（787） Cheapest Flights Within K Stops
+##### 13、（332） Reconstruct Itinerary
+##### 14、（1519） Number of Nodes in the Sub-Tree With the Same Label
+##### 15、（478） Generate Random Point in a Circle
+##### 16、（1559） Detect Cycles in 2D Grid
+##### 17、（310） Minimum Height Trees
+##### 18、（127） Word Ladder
+##### 19、（547） Friend Circles
+##### 20、（1584） Min Cost to Connect All Points
+##### 21、（684） Redundant Connection
+##### 22、（685） Redundant Connection II
+##### 23、（743） Network Delay Time
+##### 24、（721） Accounts Merge
+##### 25、（851） Loud and Rich
+##### 26、（399） Evaluate Division
+##### 27、（1617） Count Subtrees With Max Distance Between Cities
+##### 28、（1284） Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+##### 29、（1293） Shortest Path in a Grid with Obstacles Elimination
+##### 30、（1298） Maximum Candies You Can Get from Boxes
+##### 31、（1345） Jump Game IV
+##### 32、（1391） Check if There is a Valid Path in a Grid
+##### 33、（1162） As Far from Land as Possible
+##### 34、（1091） Shortest Path in Binary Matrix
+##### 35、（1034） Coloring A Border
+##### 36、（1031） Number of Enclaves
+##### 37、（695） Max Area of Island
+##### 38、（994） Rotting Oranges
+##### 39、（733） Flood Fill
+##### 40、（1625） Lexicographically Smallest String After Applying Operations
+##### 41、（1627） Graph Connectivity With Threshold
+##### 42、（947） Most Stones Removed with Same Row or Column
+##### 43、（1654） Minimum Jumps to Reach Home
+##### 44、（1203） Sort Items by Groups Respecting Dependencies
+##### 45、（803） Bricks Falling When Hit
+##### 46、（1766） Tree of Coprimes
+##### 46-1、 找到每个节点的最小祖先，并且祖先节点和其节点值互质。
+##### 47、 （1368） Minimum Cost to Make at Least One Valid Path in a Grid
+##### 47-1、 修改箭头方向最少次数能够到达右下角的点。
+##### 48、（1786） Number of Restricted Paths From First to Last Node
+##### 48-1、 从头节点到尾节点的限制路径是多少个，限制路径指每次节点到尾节点的最短路径要递减。
+##### 49、（331） Verify Preorder Serialization of a Binary Tree
+##### 49-1、 判断一个字符串序列是否是前序遍历。
 
 <br>
 
