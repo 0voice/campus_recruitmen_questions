@@ -25,9 +25,9 @@
 ---
 ##### [1、zoj 3235 Prototype（原型）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203235%20Prototype.md)
 ##### [2、zoj 3770 Ranking System（先后次序排列方法）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203770%20Ranking%20System.md)
-##### 3、zoj 2814 Surprising Strings（令人惊讶的字符串）
-##### 4、poj 2817 WordStack
-##### 5、poj 3910 GCD Determinant
+##### [3、zoj 2814 Surprising Strings（令人惊讶的字符串）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202814%20Surprising%20Strings.md)
+##### [4、poj 2817 WordStack](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202817%20WordStack.md)
+##### [5、poj 3910 GCD Determinant](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203910%20GCD%20Determinant.md)
 ##### 6、poj 2452 Sticks Problem
 ##### 7、poj 3071 Football
 ##### 8、poj 1664 放苹果
