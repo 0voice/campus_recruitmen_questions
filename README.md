@@ -23,19 +23,206 @@
 <h3 id="1">ACM</h3> 
 
 ---
-##### [1.计蒜客：置换的玩笑（DFS）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/%E8%AE%A1%E8%92%9C%E5%AE%A2%EF%BC%9A%E7%BD%AE%E6%8D%A2%E7%9A%84%E7%8E%A9%E7%AC%91%EF%BC%88DFS%EF%BC%89.cpp)
-
-##### 2.整数的划分
-##### 3.DP+四边形不等式优化（hdu 3506 Monkey Party）
-##### 4.快餐（hoj 1005 fast food）
-##### 5.hoj 1031完全背包Piggy-Bank
-##### 6.数字金字塔（hoj 1058Number Triangles）
-##### 7.肥猫的表亲（hoj 1061Fat Cat's cousin II）
-##### 8.加建楼梯（hoj 1090The Staircases）
-##### 9.公共子序列（hoj 1227 Common Subsequence）
-##### 10.桥接的信号（hoj 1288 Bridging Signals）
-
-
+##### 1、zoj 3235 Prototype（原型）
+##### 2、zoj 3770 Ranking System（先后次序排列方法）
+##### 3、zoj 2814 Surprising Strings（令人惊讶的字符串）
+##### 4、poj 2817 WordStack
+##### 5、poj 3910 GCD Determinant
+##### 6、poj 2452 Sticks Problem
+##### 7、poj 3071 Football
+##### 8、poj 1664 放苹果
+##### 9、poj 3752 字母旋转游戏
+##### 10、poj 4006 Genghis Khan the Con...
+##### 11、poj 1205 Water Treatment Plants
+##### 12、poj 3388 Japanese Puzzle
+##### 13、poj 2386 Lake Counting
+##### 14、zoj 1861 Gas Station Numbers
+##### 15、zoj 3590 -3+1
+##### 16、zoj 2837 Left Library Lift
+##### 17、zoj 1563 Pearls
+##### 18、poj 1523 SPF
+##### 19、poj 1308 Is It A Tree?
+##### 20、poj 3968 Jungle Outpost
+##### 21、poj 2417 Discrete Logging
+##### 22、poj 3484 Showstopper
+##### 23、zoj 3109 Decode Message
+##### 24、poj 3548 Restoring the digits
+##### 25、zoj 2561 Order-Preserving Codes
+##### 26、poj 2482 Stars in Your Window
+##### 27、zoj 1507 Crazy Search
+##### 28、poj 2447 RSA
+##### 29、poj 1628 Deduction
+##### 30、zoj 3019 Puzzle
+##### 31、poj 1977 Odd Loving Bakers
+##### 32、poj 1989 The Cow Lineup
+##### 33、poj 2672 Hotkeys
+##### 34、zoj 3393 Routing
+##### 35、zoj 3531 Alice Madness Return
+##### 36、zoj 1418 Lazy Math Instructor
+##### 37、poj 2918 Tudoku
+##### 38、zoj 2990 Decoding
+##### 39、poj 2323 PERMS
+##### 40、poj 1313 Booklet Printing
+##### 41、poj 3216 Repairing Company
+##### 42、poj 1953 World Cup Noise
+##### 43、zoj 2247 Magic Trick
+##### 44、zoj 3502 Contest
+##### 45、zoj 2011 Secret Code
+##### 46、zoj 1810 The Gourmet Club
+##### 47、zoj 1898 Discrete Logging
+##### 48、zoj 3836 Circulation pipe
+##### 49、poj 3495 Bitwise XOR of Arith...
+##### 50、poj 3435 Sudoku Checker
+##### 51、zoj 3114 Double Queue
+##### 52、poj 2506 Tiling
+##### 53、zoj 2151 The Highest Profits
+##### 54、poj 1077 Eight
+##### 55、poj 1090 Chain
+##### 56、zoj 3890 Wumpus
+##### 57、poj 3532 Resistance
+##### 58、zoj 1344 A Mazing Problem
+##### 59、zoj 1259 Rails
+##### 60、poj 3183 Stump Removal
+##### 61、poj 2893 M × N Puzzle
+##### 62、zoj 1119 SPF
+##### 63、poj 3635 Full Tank?
+##### 64、poj 3573 I18n
+##### 65、zoj 1179 Finding Rectangles
+##### 66、poj 3449 Geometric Shapes
+##### 67、poj 2749 Building roads
+##### 68、zoj 2451 Minimizing maximizer
+##### 69、poj 3222 Edge Pairing
+##### 70、poj 1984 Navigation Nightmare
+##### 71、poj 3860 Fruit Weights
+##### 72、poj 2664 Prerequisites?
+##### 73、poj 3376 Finding Palindromes
+##### 74、zoj 2725 Digital Deletions
+##### 75、zoj 1797 Least Common Multiple
+##### 76、poj 3356 AGTC
+##### 77、zoj 1743 Concert Hall Scheduling
+##### 78、zoj 1566 Too Lazy To Move
+##### 79、poj 3802 Cubist Artwork
+##### 80、zoj 3347 Picture Handling
+##### 81、zoj 1325 Palindromes
+##### 82、zoj 2933 Slink
+##### 83、zoj 1671 Walking Ant
+##### 84、zoj 3661 Palindromic Substring
+##### 85、poj 2362 Square
+##### 86、zoj 2665 Heapsort
+##### 87、poj 3883 Penguin Bashing
+##### 88、poj 3585 Accumulation Degree
+##### 89、poj 1480 Optimal Programs
+##### 90、poj 2458 Rigging the Bovine E...
+##### 91、poj 3191 The Moronic Cowmpouter
+##### 92、poj 2903 Joy of Mobile Routing
+##### 93、zoj 3898 Stean
+##### 94、poj 1972 Dice Stacking
+##### 95、poj 3363 Annoying painting tool
+##### 96、zoj 3795 Grouping
+##### 97、poj 2007 Scrambled Polygon
+##### 98、zoj 1535 Lucky Ticket
+##### 99、zoj 1496 Best Fit
+##### 100、poj 1284 Primitive Roots
+##### 101、zoj 1966 Etaoin Shrdlu
+##### 102、poj 1051 P,MTHBGWB
+##### 103、poj 2201 Cartesian Tree
+##### 104、poj 3715 Blue and Red
+##### 105、poj 3361 Gaussian Prime Factors
+##### 106、poj 3901 The Computer Game
+##### 107、poj 1127 Jack Straws
+##### 108、zoj 3798 Abs Problem
+##### 109、poj 3294 Life Forms
+##### 110、zoj 2594 Driving Straight
+##### 111、poj 2206 Magic Multiplying Ma...
+##### 112、poj 3623 Best Cow Line, Gold
+##### 113、zoj 2316 Matrix Multiplication
+##### 114、poj 2409 Let it Bead
+##### 115、zoj 3212 K-Nice
+##### 116、poj 2668 Defending Castle
+##### 117、poj 1909 Marbles on a tree
+##### 118、zoj 1610 Count the Colors
+##### 119、poj 1611 The Suspects
+##### 120、poj 3757 Simple Distributed storage system
+##### 121、zoj 3690 Choosing number
+##### 122、poj 3196 Babylonian Roulette
+##### 123、zoj 3134 Travel
+##### 124、poj 2679 Adventurous Driving
+##### 125、zoj 2898 Greedy Grave Robber
+##### 126、poj 3554 Almost the shortest ...
+##### 127、zoj 2361 Areas
+##### 128、poj 3384 Feng Shui
+##### 129、poj 2622 Convex hull
+##### 130、poj 3632 Optimal Parking
+##### 131、poj 4003 Bob’s Race
+##### 132、poj 1619 EKG Sequence
+##### 133、poj 3914 DuLL
+##### 134、poj 3987 Computer Virus on Pl...
+##### 135、zoj 2993 Model Rocket Height
+##### 136、zoj 3151 Dice Compare
+##### 137、zoj 1279 Cowculations
+##### 138、poj 1353 Color Change of Go G...
+##### 139、poj 3782 Equal Sum Partitions
+##### 140、poj 3481 Double Queue
+##### 141、poj 1153 SAFE
+##### 142、zoj 2499 The Happy Worm
+##### 143、poj 3763 Tour in Wonder Land
+##### 144、zoj 3385 Hanami Party
+##### 145、zoj 3051 Playing Poker
+##### 146、zoj 2009 Run Away
+##### 147、poj 1559 Equation Elation
+##### 148、poj 3579 Median
+##### 149、poj 2430 Lazy Cows
+##### 150、zoj 1255 The Path
+##### 151、zoj 3595 Two Sequences
+##### 152、zoj 3016 Cut
+##### 153、poj 3174 Alignment of the Pla...
+##### 154、zoj 3813 Alternating Sum
+##### 155、poj 1690 (Your)((Term)((Proje...
+##### 156、poj 1650 Integer Approximation
+##### 157、zoj 1472 Overlapping Shapes
+##### 158、zoj 1812 Stamps
+##### 159、poj 2403 Hay Points
+##### 160、zoj 1400 Programmer, Rank Thy...
+##### 161、poj 2941 Homogeneous Squares
+##### 162、poj 1149 PIGS
+##### 163、poj 1240 Pre-Post-erous!
+##### 164、poj 3349 Snowflake Snow Snowf...
+##### 165、poj 1459 Power Network
+##### 166、poj 2978 Colored stones
+##### 167、poj 3219 Binomial Coefficients
+##### 168、zoj 2191 Series Determination
+##### 169、zoj 2913 Bus Pass
+##### 170、poj 3260 The Fewest Coins
+##### 171、poj 3593 Sea Base Exploration
+##### 172、poj 3131 Cubic Eight-Puzzle
+##### 173、zoj 2634 Collecting Stones
+##### 174、poj 1417 True Liars
+##### 175、poj 1789 Truck History
+##### 176、zoj 2139 ACM
+##### 177、poj 3050 Hopscotch
+##### 178、zoj 3663 Polaris of Pandora
+##### 179、poj 1780 Code
+##### 180、poj 3266 Cow School
+##### 181、poj 2771 Guardian of Decency
+##### 182、zoj 1501 Knockout Tournament
+##### 183、poj 2827 Auto-Calculation Mac...
+##### 184、poj 3612 Telephone Wire
+##### 185、zoj 1237 Fans and Gems
+##### 186、zoj 2671 Cryptography
+##### 187、zoj 1433 Treasure Hunters
+##### 188、poj 2174 Decoding Task
+##### 189、zoj 3291 Never End
+##### 190、zoj 3049 Diablo II Items
+##### 191、zoj 1204 Additive equations
+##### 192、zoj 2886 Look and Say
+##### 193、poj 2196 Specialized Four-Dig...
+##### 194、poj 2900 Griddy Hobby
+##### 195、poj 1663 Number Steps
+##### 196、zoj 1497 Ball Toss
+##### 197、zoj 1404 Oil Pipeline
+##### 198、zoj 3805 Machine
+##### 199、zoj 3811 Untrusted Patrol
+##### 200、poj 1184 聪明的打字员
 
 <br>
 
@@ -1413,7 +1600,6 @@
 ##### 363、（1904）你完成的完整对局数
 ##### 364、（1906）查询差绝对值的最小值
 
-
 <br>
 
 <h3 id="4">mysql</h3> 
@@ -1843,7 +2029,6 @@
 ##### 28、产生死锁的必要条件有哪些？如何避免死锁？
 ##### 29、信号和信号量的区别是什么？
 ##### 30、锁的性能开销，锁的实现原理？
-
 
 <br>
 
