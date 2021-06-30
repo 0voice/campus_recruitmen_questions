@@ -952,6 +952,38 @@
 <h3 id="20">基础组件</h3> 
 
 ---
+##### 1、 ZooKeeper是什么
+##### 2、 ZooKeeper提供了什么
+##### 3、 Zookeeper文件系统	
+##### 4、 ZAB 协议	
+##### 5、 四种类型的数据节点Znode
+##### 6、 Zookeeper Watcher 机制 – 数据变更通知
+##### 7、 客户端注册Watcher实现
+##### 8、 服务端处理Watcher实现	
+##### 9、 客户端回调Watcher
+##### 10、 ACL 权限控制机制
+##### 11、 你知道Chroot属性是用来干什么的吗？	
+##### 12、 zookeeper的会话管理是怎样的？	
+##### 13、 zookeeper中的服务器角色都有哪些？分别是干什么的？	
+##### 14、 Zookeeper 下 Server 工作状态
+##### 15、 zookeeper数据同步的实现方式？
+##### 16、 zookeeper 是如何保证事务的顺序一致性的	
+##### 17、 分布式集群中为什么会有 Master
+##### 18、 zk节点宕机如何处理
+##### 19、 zookeeper 负载均衡和 nginx 负载均衡区别
+##### 20、 Zookeeper 有哪几种几种部署模式
+##### 21、 集群最少要几台机器，集群规则是怎样的
+##### 22、 集群支持动态添加机器吗
+##### 23、 Zookeeper 对节点的 watch 监听通知是永久的吗,为什么不是永久的
+##### 24、 Zookeeper 的 java 客户端都有哪些
+##### 25、 chubby 是什么，和 zookeeper 比你怎么看
+##### 26、 说几个 zookeeper 常用的命令
+##### 27、 ZAB和Paxos 算法的联系与区别
+##### 28、 Zookeeper的典型应用场景
+##### 29、 Zookeeper都有哪些功能？
+##### 30、 说一下Zookeeper的通知机制？
+##### 31、 Zookeeper和Dubbo的关系？
+##### 32、zookeeper集群的Watcher监听是永久的吗？为什么？
 
 <br>
 
@@ -969,7 +1001,7 @@
 **秋招学习内容：面试技巧、简历制作、企业选择等面试痛点问题分享** <br>
 **常规直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
 
-![image](contact.jpg)
+![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
 
 
