@@ -1,3 +1,4 @@
+# 题目
 Few weeks ago, a famous software company has upgraded its instant messaging software. A ranking system was released for user groups. Each member of a group has a level placed near his nickname. The level shows the degree of activity of a member in the group.
 
 Each member has a score based his behaviors in the group. The level is determined by this method:
