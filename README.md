@@ -24,7 +24,7 @@
 
 ---
 ##### [1、zoj 3235 Prototype（原型）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203235%20Prototype.md)
-##### 2、zoj 3770 Ranking System（先后次序排列方法）
+##### [2、zoj 3770 Ranking System（先后次序排列方法）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203770%20Ranking%20System.md)
 ##### 3、zoj 2814 Surprising Strings（令人惊讶的字符串）
 ##### 4、poj 2817 WordStack
 ##### 5、poj 3910 GCD Determinant
