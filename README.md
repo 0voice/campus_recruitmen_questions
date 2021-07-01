@@ -36,11 +36,11 @@
 ##### [11、poj 1205 Water Treatment Plants](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201205%20Water%20Treatment%20Plants.md)
 ##### [12、poj 3388 Japanese Puzzle](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203388%20Japanese%20Puzzle.md)
 ##### [13、poj 2386 Lake Counting](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202386%20Lake%20Counting.md)
-##### 14、zoj 1861 Gas Station Numbers
-##### 15、zoj 3590 -3+1
-##### 16、zoj 2837 Left Library Lift
-##### 17、zoj 1563 Pearls
-##### 18、poj 1523 SPF
+##### [14、zoj 1861 Gas Station Numbers](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201861%20Gas%20Station%20Numbers.md)
+##### [15、zoj 3590 -3+1](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203590%20-3%2B1.md)
+##### [16、zoj 2837 Left Library Lift](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202837%20Left%20Library%20Lift.md)
+##### [17、zoj 1563 Pearls](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201563%20Pearls.md)
+##### [18、poj 1523 SPF](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201523%20SPF.md)
 ##### 19、poj 1308 Is It A Tree?
 ##### 20、poj 3968 Jungle Outpost
 ##### 21、poj 2417 Discrete Logging
