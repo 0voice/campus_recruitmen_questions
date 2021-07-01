@@ -486,6 +486,7 @@ CREATE INDEX index_name ON table_name (column);
 * 共享锁: 又叫做读锁。当用户要进行数据的读取时，对数据加上共享锁。共享锁可以同时加上多个。
 * 排他锁: 又叫做写锁。当用户要进行数据的写入时，对数据加上排他锁。排他锁只可以加一个，他和其他的排他锁，共享锁都相斥。
 锁兼容性如下：
+
 ![兼容性.png](https://img12.360buyimg.com/ddimg/jfs/t1/190507/4/11134/45696/60dd7c36Eaf1dfc53/c55702187ed531fa.png)
 
 ## 58. MySQL中InnoDB引擎的行锁是怎么实现的？
