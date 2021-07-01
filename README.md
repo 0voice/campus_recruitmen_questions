@@ -33,7 +33,7 @@
 ##### [8、poj 1664 放苹果](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201664%20%E6%94%BE%E8%8B%B9%E6%9E%9C.md)
 ##### [9、poj 3752 字母旋转游戏](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203752%20%E5%AD%97%E6%AF%8D%E6%97%8B%E8%BD%AC%E6%B8%B8%E6%88%8F.md)
 ##### [10、poj 4006 Genghis Khan the Conqueror](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%204006%20Genghis%20Khan%20the%20Conqueror.md)
-##### 11、poj 1205 Water Treatment Plants
+##### [11、poj 1205 Water Treatment Plants](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201205%20Water%20Treatment%20Plants.md)
 ##### 12、poj 3388 Japanese Puzzle
 ##### 13、poj 2386 Lake Counting
 ##### 14、zoj 1861 Gas Station Numbers
