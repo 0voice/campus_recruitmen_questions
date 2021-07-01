@@ -2376,13 +2376,6 @@
 
 <br>
 
-<h3 id="22">联系我</h3> 
----
-**每天晚上8点 直播分享 秋招学习内容：面试技巧、简历制作、企业选择等面试痛点问题分享， 扫码即可加入，小姐姐发直播链接** <br>
-**常规直播内容：C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等等多个知识点技术分享**
-
-![image](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
-
 
 
 
