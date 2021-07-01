@@ -1704,7 +1704,7 @@
 ##### [97. 你们数据库是否支持emoji表情存储，如果不支持，如何操作？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
 ##### [98. MySQL如何获取当前日期？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 ##### [99. 一个6亿的表a，一个3亿的表b，通过外间tid关联，你如何最快的查询出满足条件的第50000到第50200中的这200条数据记录。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
-##### [100. Mysql一条SQL加锁分析](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [100. Mysql一条SQL加锁分析](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md#100-mysql%E4%B8%80%E6%9D%A1sql%E5%8A%A0%E9%94%81%E5%88%86%E6%9E%90)	
 
 <br>
 
