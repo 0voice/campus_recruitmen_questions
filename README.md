@@ -1605,106 +1605,106 @@
 <h3 id="4">mysql</h3> 
 
 ---
-##### 1. MySQL 索引使用有哪些注意事项呢？	
-##### 2. MySQL 遇到过死锁问题吗，你是如何解决的？	
-##### 3. 日常工作中你是怎么优化SQL的？	
-##### 4. 说说分库与分表的设计	
-##### 5. InnoDB与MyISAM的区别	
-##### 6. 数据库索引的原理，为什么要用 B+树，为什么不用二叉树？	
-##### 7. 聚集索引与非聚集索引的区别	
-##### 8. limit 1000000 加载很慢的话，你是怎么解决的呢？	
-##### 9. 如何选择合适的分布式主键方案呢？	
-##### 10. 事务的隔离级别有哪些？MySQL的默认隔离级别是什么？	
-##### 11. 什么是幻读，脏读，不可重复读呢？	
-##### 12. 在高并发情况下，如何做到安全的修改同一行数据？	
-##### 13. 数据库的乐观锁和悲观锁。	
-##### 14. SQL优化的一般步骤是什么，怎么看执行计划（explain），如何理解其中各个字段的含义。	
-##### 15. select for update有什么含义，会锁表还是锁行还是其他。	
-##### 16. MySQL事务得四大特性以及实现原理	
-##### 17. 如果某个表有近千万数据，CRUD比较慢，如何优化。
-##### 18. 如何写sql能够有效的使用到复合索引。
-##### 19. mysql中in 和exists的区别。
-##### 20. 数据库自增主键可能遇到什么问题。	
-##### 21. MVCC熟悉吗，它的底层原理？	
-##### 22. 数据库中间件了解过吗，sharding jdbc，mycat？	
-##### 23. MYSQL的主从延迟，你怎么解决？	
-##### 24. 说一下大表查询的优化方案	
-##### 25. 什么是数据库连接池?为什么需要数据库连接池呢?	
-##### 26. 一条SQL语句在MySQL中如何执行的？	
-##### 27. InnoDB引擎中的索引策略，了解过吗？	
-##### 28. 数据库存储日期格式时，如何考虑时区转换问题？	
-##### 29. 一条sql执行过长的时间，你如何优化，从哪些方面入手？	
-##### 30. MYSQL数据库服务器性能分析的方法命令有哪些?	
-##### 31. Blob和text有什么区别？	
-##### 32. mysql里记录货币用什么字段类型比较好？	
-##### 33. Mysql中有哪几种锁，列举一下？	
-##### 34. Hash索引和B+树区别是什么？你在设计索引是怎么抉择的？	
-##### 35. mysql 的内连接、左连接、右连接有什么区别？	
-##### 36. 说说MySQL 的基础架构图	
-##### 37. 什么是内连接、外连接、交叉连接、笛卡尔积呢？	
-##### 38. 说一下数据库的三大范式	
-##### 39. mysql有关权限的表有哪几个呢？	
-##### 40. Mysql的binlog有几种录入格式？分别有什么区别？	
-##### 41. InnoDB引擎的4大特性，了解过吗	
-##### 42. 索引有哪些优缺点？	
-##### 43. 索引有哪几种类型？	
-##### 44. 创建索引有什么原则呢？	
-##### 45. 创建索引的三种方式	
-##### 46. 百万级别或以上的数据，你是如何删除的？
-##### 47. 什么是最左前缀原则？什么是最左匹配原则？
-##### 48. B树和B+树的区别，数据库为什么使用B+树而不是B树？
-##### 49. 覆盖索引、回表等这些，了解过吗？
-##### 50. B+树在满足聚簇索引和覆盖索引的时候不需要回表查询数据？
-##### 51. 何时使用聚簇索引与非聚簇索引	
-##### 52. 非聚簇索引一定会回表查询吗？	
-##### 53. 组合索引是什么？为什么需要注意组合索引中的顺序？	
-##### 54. 什么是数据库事务？	
-##### 55. 隔离级别与锁的关系	
-##### 56. 按照锁的粒度分，数据库锁有哪些呢？锁机制与InnoDB锁算法	
-##### 57. 从锁的类别角度讲，MySQL都有哪些锁呢？	
-##### 58. MySQL中InnoDB引擎的行锁是怎么实现的？	
-##### 59. 什么是死锁？怎么解决？	
-##### 60. 为什么要使用视图？什么是视图？	
-##### 61. 视图有哪些特点？哪些使用场景？	
-##### 62. 视图的优点，缺点，讲一下？	
-##### 63. count(1)、count(*) 与 count(列名) 的区别？	
-##### 64. 什么是游标？	
-##### 65. 什么是存储过程？有哪些优缺点？	
-##### 66. 什么是触发器？触发器的使用场景有哪些？	
-##### 67. MySQL中都有哪些触发器？	
-##### 68. 超键、候选键、主键、外键分别是什么？	
-##### 69. SQL 约束有哪几种呢？	
-##### 70. 谈谈六种关联查询，使用场景。	
-##### 71. varchar(50)中50的涵义	
-##### 72. mysql中int(20)和char(20)以及varchar(20)的区别	
-##### 73. drop、delete与truncate的区别	
-##### 74. UNION与UNION ALL的区别？	
-##### 75. SQL的生命周期？	
-##### 76. 一条Sql的执行顺序？	
-##### 77. 列值为NULL时，查询是否会用到索引？	
-##### 78. 关心过业务系统里面的sql耗时吗？统计过慢查询吗？对慢查询都怎么优化过？	
-##### 79. 主键使用自增ID还是UUID，为什么？	
-##### 80. mysql自增主键用完了怎么办？	
-##### 81. 字段为什么要求定义为not null？	
-##### 82. 如果要存储用户的密码散列，应该使用什么字段进行存储？
-##### 83. Mysql驱动程序是什么？
-##### 84. 如何优化长难的查询语句？有实战过吗？
-##### 85. 优化特定类型的查询语句
-##### 86. MySQL数据库cpu飙升的话，要怎么处理呢？
-##### 87. 读写分离常见方案？
-##### 88. MySQL的复制原理以及流程	
-##### 89. MySQL中DATETIME和TIMESTAMP的区别
-##### 90. Innodb的事务实现原理？
-##### 91. 谈谈MySQL的Explain	
-##### 92. Innodb的事务与日志的实现方式	
-##### 93. MySQL中TEXT数据类型的最大长度	
-##### 94. 500台db，在最快时间之内重启。	
-##### 95. 你是如何监控你们的数据库的？你们的慢日志都是怎么查询的？	
-##### 96. 你是否做过主从一致性校验，如果有，怎么做的，如果没有，你打算怎么做？	
-##### 97. 你们数据库是否支持emoji表情存储，如果不支持，如何操作？	
-##### 98. MySQL如何获取当前日期？	
-##### 99. 一个6亿的表a，一个3亿的表b，通过外间tid关联，你如何最快的查询出满足条件的第50000到第50200中的这200条数据记录。	
-##### 100. Mysql一条SQL加锁分析	
+##### [1. MySQL 索引使用有哪些注意事项呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [2. MySQL 遇到过死锁问题吗，你是如何解决的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [3. 日常工作中你是怎么优化SQL的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [4. 说说分库与分表的设计](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [5. InnoDB与MyISAM的区](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [6. 数据库索引的原理，为什么要用 B+树，为什么不用二叉树？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [7. 聚集索引与非聚集索引的区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [8. limit 1000000 加载很慢的话，你是怎么解决的呢?](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [9. 如何选择合适的分布式主键方案呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [10. 事务的隔离级别有哪些？MySQL的默认隔离级别是什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [11. 什么是幻读，脏读，不可重复读呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [12. 在高并发情况下，如何做到安全的修改同一行数据？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [13. 数据库的乐观锁和悲观锁。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [14. SQL优化的一般步骤是什么，怎么看执行计划（explain），如何理解其中各个字段的含义。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [15. select for update有什么含义，会锁表还是锁行还是其他。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [16. MySQL事务得四大特性以及实现原理](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [17. 如果某个表有近千万数据，CRUD比较慢，如何优化。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [18. 如何写sql能够有效的使用到复合索引。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [19. mysql中in 和exists的区别。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [20. 数据库自增主键可能遇到什么问题。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [21. MVCC熟悉吗，它的底层原理？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [22. 数据库中间件了解过吗，sharding jdbc，mycat？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [23. MYSQL的主从延迟，你怎么解决？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [24. 说一下大表查询的优化方案](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [25. 什么是数据库连接池?为什么需要数据库连接池呢?	](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [26. 一条SQL语句在MySQL中如何执行的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [27. InnoDB引擎中的索引策略，了解过吗？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [28. 数据库存储日期格式时，如何考虑时区转换问题？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [29. 一条sql执行过长的时间，你如何优化，从哪些方面入手？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [30. MYSQL数据库服务器性能分析的方法命令有哪些?](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [31. Blob和text有什么区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [32. mysql里记录货币用什么字段类型比较好？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [33. Mysql中有哪几种锁，列举一下？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [34. Hash索引和B+树区别是什么？你在设计索引是怎么抉择的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [35. mysql 的内连接、左连接、右连接有什么区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [36. 说说MySQL 的基础架构图](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [37. 什么是内连接、外连接、交叉连接、笛卡尔积呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [38. 说一下数据库的三大范式](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [39. mysql有关权限的表有哪几个呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [40. Mysql的binlog有几种录入格式？分别有什么区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [41. InnoDB引擎的4大特性，了解过吗](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [42. 索引有哪些优缺点？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [43. 索引有哪几种类型？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [44. 创建索引有什么原则呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [45. 创建索引的三种方式](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [46. 百万级别或以上的数据，你是如何删除的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [47. 什么是最左前缀原则？什么是最左匹配原则？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [48. B树和B+树的区别，数据库为什么使用B+树而不是B树？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [49. 覆盖索引、回表等这些，了解过吗？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [50. B+树在满足聚簇索引和覆盖索引的时候不需要回表查询数据？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [51. 何时使用聚簇索引与非聚簇索引](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [52. 非聚簇索引一定会回表查询吗？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [53. 组合索引是什么？为什么需要注意组合索引中的顺序？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [54. 什么是数据库事务？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [55. 隔离级别与锁的关系](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [56. 按照锁的粒度分，数据库锁有哪些呢？锁机制与InnoDB锁算法](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [57. 从锁的类别角度讲，MySQL都有哪些锁呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [58. MySQL中InnoDB引擎的行锁是怎么实现的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [59. 什么是死锁？怎么解决？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [60. 为什么要使用视图？什么是视图？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [61. 视图有哪些特点？哪些使用场景？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [62. 视图的优点，缺点，讲一下？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [63. count(1)、count(*) 与 count(列名) 的区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [64. 什么是游标？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [65. 什么是存储过程？有哪些优缺点？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [66. 什么是触发器？触发器的使用场景有哪些？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [67. MySQL中都有哪些触发器？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [68. 超键、候选键、主键、外键分别是什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [69. SQL 约束有哪几种呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [70. 谈谈六种关联查询，使用场景。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [71. varchar(50)中50的涵义](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [72. mysql中int(20)和char(20)以及varchar(20)的区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [73. drop、delete与truncate的区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [74. UNION与UNION ALL的区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [75. SQL的生命周期？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [76. 一条Sql的执行顺序？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [77. 列值为NULL时，查询是否会用到索引？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [78. 关心过业务系统里面的sql耗时吗？统计过慢查询吗？对慢查询都怎么优化过？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [79. 主键使用自增ID还是UUID，为什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [80. mysql自增主键用完了怎么办？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [81. 字段为什么要求定义为not null？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [82. 如果要存储用户的密码散列，应该使用什么字段进行存储？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [83. Mysql驱动程序是什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [84. 如何优化长难的查询语句？有实战过吗？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [85. 优化特定类型的查询语句](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [86. MySQL数据库cpu飙升的话，要怎么处理呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [87. 读写分离常见方案？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [88. MySQL的复制原理以及流程	](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [89. MySQL中DATETIME和TIMESTAMP的区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [90. Innodb的事务实现原理？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [91. 谈谈MySQL的Explain](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [92. Innodb的事务与日志的实现方式](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [93. MySQL中TEXT数据类型的最大长度](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [94. 500台db，在最快时间之内重启。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [95. 你是如何监控你们的数据库的？你们的慢日志都是怎么查询的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [96. 你是否做过主从一致性校验，如果有，怎么做的，如果没有，你打算怎么做？	](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [97. 你们数据库是否支持emoji表情存储，如果不支持，如何操作？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [98. MySQL如何获取当前日期？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+##### [99. 一个6亿的表a，一个3亿的表b，通过外间tid关联，你如何最快的查询出满足条件的第50000到第50200中的这200条数据记录。](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
+##### [100. Mysql一条SQL加锁分析](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md)	
 
 <br>
 
