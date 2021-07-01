@@ -41,8 +41,8 @@
 ##### [16、zoj 2837 Left Library Lift](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202837%20Left%20Library%20Lift.md)
 ##### [17、zoj 1563 Pearls](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201563%20Pearls.md)
 ##### [18、poj 1523 SPF](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201523%20SPF.md)
-##### 19、poj 1308 Is It A Tree?
-##### 20、poj 3968 Jungle Outpost
+##### [19、poj 1308 Is It A Tree?](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201308%20Is%20It%20A%20Tree%3F.md)
+##### [20、poj 2442 Sequence](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202442%20Sequence.md)
 ##### 21、poj 2417 Discrete Logging
 ##### 22、poj 3484 Showstopper
 ##### 23、zoj 3109 Decode Message
