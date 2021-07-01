@@ -28,7 +28,7 @@
 ##### [3、zoj 2814 Surprising Strings（令人惊讶的字符串）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202814%20Surprising%20Strings.md)
 ##### [4、poj 2817 WordStack](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202817%20WordStack.md)
 ##### [5、poj 3910 GCD Determinant](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203910%20GCD%20Determinant.md)
-##### 6、poj 2452 Sticks Problem
+##### [6、poj 2452 Sticks Problem](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202452%20Sticks%20Problem.md)
 ##### 7、poj 3071 Football
 ##### 8、poj 1664 放苹果
 ##### 9、poj 3752 字母旋转游戏
