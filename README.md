@@ -53,26 +53,26 @@
 ##### [28、poj 2447 RSA](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202447%20RSA.md)
 ##### [29、poj 1628 Deduction](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201628%20Deduction.md)
 ##### [30、zoj 3019 Puzzle](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203019%20Puzzle.md)
-##### 31、poj 1977 Odd Loving Bakers
-##### 32、poj 1989 The Cow Lineup
-##### 33、poj 2672 Hotkeys
-##### 34、zoj 3393 Routing
-##### 35、zoj 3531 Alice Madness Return
-##### 36、zoj 1418 Lazy Math Instructor
-##### 37、poj 2918 Tudoku
-##### 38、zoj 2990 Decoding
-##### 39、poj 2323 PERMS
-##### 40、poj 1313 Booklet Printing
-##### 41、poj 3216 Repairing Company
-##### 42、poj 1953 World Cup Noise
-##### 43、zoj 2247 Magic Trick
-##### 44、zoj 3502 Contest
-##### 45、zoj 2011 Secret Code
-##### 46、zoj 1810 The Gourmet Club
-##### 47、zoj 1898 Discrete Logging
-##### 48、zoj 3836 Circulation pipe
-##### 49、poj 3495 Bitwise XOR of Arith...
-##### 50、poj 3435 Sudoku Checker
+##### [31、poj 1977 Odd Loving Bakers](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201977%20Odd%20Loving%20Bakers.md)
+##### [32、poj 1989 The Cow Lineup](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201989%20The%20Cow%20Lineup.md)
+##### [33、poj 2672 Hotkeys](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202672%20Hotkeys.md)
+##### [34、zoj 3393 Routing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203393%20Routing.md)
+##### [35、zoj 3531 Alice Madness Return](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203531%20Alice%20Madness%20Return.md)
+##### [36、zoj 1418 Lazy Math Instructor](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201418%20Lazy%20Math%20Instructor.md)
+##### [37、poj 2918 Tudoku](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202918%20Tudoku.md)
+##### [38、zoj 2990 Decoding](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202990%20Decoding.md)
+##### [39、poj 2323 PERMS](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202323%20PERMS.md)
+##### [40、poj 1313 Booklet Printing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201313%20Booklet%20Printing.md)
+##### [41、poj 3216 Repairing Company](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203216%20Repairing%20Company.md)
+##### [42、poj 1953 World Cup Noise](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201953%20World%20Cup%20Noise.md)
+##### [43、zoj 2247 Magic Trick](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202247%20Magic%20Trick.md)
+##### [44、zoj 3502 Contest](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203502%20Contest.md)
+##### [45、zoj 2011 Secret Code](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202011%20Secret%20Code.md)
+##### [46、zoj 1810 The Gourmet Club](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201810%20The%20Gourmet%20Club.md)
+##### [47、zoj 1898 Discrete Logging](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201898%20Discrete%20Logging.md)
+##### [48、zoj 3836 Circulation pipe](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203836%20Circulation%20pipe.md)
+##### 49、[poj 3495 Bitwise XOR of Arithmetic Progression](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203495%20Bitwise%20XOR%20of%20Arithmetic%20Progression.md)
+##### [50、poj 3435 Sudoku Checker](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203435%20Sudoku%20Checker.md)
 ##### 51、zoj 3114 Double Queue
 ##### 52、poj 2506 Tiling
 ##### 53、zoj 2151 The Highest Profits
