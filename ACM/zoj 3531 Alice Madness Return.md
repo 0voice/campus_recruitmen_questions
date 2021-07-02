@@ -2,6 +2,7 @@
 Recently there is a new game called <<Alice Madness Return>>. In this game, Alice was trapped in the wonderland by some evil spirits and she also lost her memory. The player need to help Alice find her memory and escape from wonderland.
 
   ![zoj_1205desc_0](http://uploadfiles.nowcoder.com/probs/acm/zoj_1205desc_0.jpg)
+	
   Now Alice is facing a big door which is locked. If she wants to open the door, she must pass a strange maze on a chess board with size m*n. There is a pawn controlled by Alice, and there is a mirror pawn indirectly controlled by Alice. In each turn, Alice can move her own pawn 1 step to one of the four direction (north, south, west, east). At the same time, the mirror pawn will also move 1 step in opposite direction. Since there are 2 exits, Alice must find a way to make her pawn and the mirror pawn reach both the 2 exits simultaneously so that she can open the door.
   
   This game is not easy because there are 2 kinds of chess pieces on the chess board which are listed below:
