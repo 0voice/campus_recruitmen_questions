@@ -6,6 +6,7 @@ In the beginning there are some chalk marks on some of the bakers' houses. Each 
 输入描述
 
 The first line of the input contains a single integer X (1 The first line of each instance contains two integers n (the number of bakers) and t (the number of the celebration we want the winners of).
+
 1 1 The next n lines of the instance each describe a baker. In each of these lines first comes the name of the baker (names are lower case strings of no more than 20 characters without spaces), then comes the number of chalk marks initially on the baker's house, then comes the number of bakers in this baker's favorite list, and after that come the names of the bakers in this baker's list.
 
 输出描述
