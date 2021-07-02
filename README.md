@@ -3,7 +3,7 @@
 * [剑指offer](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
-* [redis](#5)
+* [redis（已更新50道）](#5)
 * [nginx](#6)
 * [语法语言](#7)
 * [网络原理](#8)
@@ -1711,58 +1711,56 @@
 <h3 id="5">redis</h3> 
 
 ---
-##### 1、什么是 Redis?简述它的优缺点?
-##### 2、Redis相比memcached有哪些优势?
-##### 3、Redis支持哪几种数据类型?
-##### 4、Redis主要消耗什么物理资源?
-##### 5、Redis 的全称是什么?
-##### 6、Redis有哪几种数据淘汰策略?
-##### 7、Redis官方为什么不提供Windows版本?
-##### 8、一个字符串类型的值能存储最大容量是多少?
-##### 9、为什么Redis需要把所有数据放到内存中?
-##### 10、Redis 集群方案应该怎么做?都有哪些方案?
-##### 11、Redis 集群方案什么情况下会导致整个集群不可用?
-##### 12、MySQL 里有 2000w 数据，redis 中只存 20w 的数据，如何保证 redis中的数据都是热点数据？
-##### 13、Redis有哪些适合的场景?
-##### 14、Redis.支持的Java客户端都有哪些?官方推荐用哪个?
-##### 15、Redis 和Redisson有什么关系?
-##### 16、Jedis与 Redisson对比有什么优缺点?
-##### 17、Redis如何设置密码及验证密码?
-##### 18、说说 Redis 哈希槽的概念?
-##### 19、Redis 集群的主从复制模型是怎样的?
-##### 20、Redis集群会有写操作丢失吗?为什么?
-##### 21、Redis 集群之间是如何复制的?
-##### 22、Redis 集群最大节点个数是多少?
-##### 23、Redis 集群如何选择数据库?
-##### 24、怎么测试Redis的连通性?
-##### 25、Redis 中的管道有什么用?
-##### 26、怎么理解 Redis 事务?
-##### 27、Redis事务相关的命令有哪几个?
-##### 28、Redis key的过期时间和永久有效分别怎么设置?
-##### 29、Redis 如何做内存优化?
-##### 30、Redis回收进程如何工作的?
-##### 31、Redis回收使用的是什么算法?
-##### 32、Redis 如何做大量数据插入?
-##### 33、为什么要做Redis分区?
-##### 34、有哪些Redis分区实现方案?
-##### 35、Redis分区有什么缺点?
-##### 36、Redis 持久化数据和缓存怎么做扩容？如果 Redis 被当做缓存使用，使用一致性哈希实现动态扩容缩容
-##### 37、分布式Redis.是前期做还是后期规模上来了再做好?为什么?
-##### 38、Twemproxy是什么?
-##### 39、支持一致性哈希的客户端有哪些?
-##### 40、Redis与其他 key-value存储有什么不同?
-##### 41、Redis的内存占用情况怎么样?
-##### 42、都有哪些办法可以降低Redis的内存使用情况呢?
-##### 43、查看Redis使用情况及状态信息用什么命令?
-##### 44、Redis 的内存用完了会发生什么?
-##### 45、Redis是单线程的，如何提高多核CPU的利用率?
-##### 46、一个 Redis 实例最多能存放多少的keys？List、Set、Sorted Set 他们最多能存放多少元素？
-##### 47、Redis 常见性能问题和解决方案?
-##### 48、Redis提供了哪几种持久化方式?
-##### 49、如何选择合适的持久化方式?
-##### 48、Redis提供了哪几种持久化方式?
-##### 49、如何选择合适的持久化方式?
-##### 50、修改配置不重启 Redis 会实时生效吗？
+##### [1、什么是 Redis?简述它的优缺点?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF-redis)
+##### [2、Redis相比memcached有哪些优势?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#2redis-%E7%9B%B8%E6%AF%94-memcached-%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF)
+##### [3、Redis支持哪几种数据类型?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#3redis-%E6%94%AF%E6%8C%81%E5%93%AA%E5%87%A0%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+##### [4、Redis主要消耗什么物理资源?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#4redis-%E4%B8%BB%E8%A6%81%E6%B6%88%E8%80%97%E4%BB%80%E4%B9%88%E7%89%A9%E7%90%86%E8%B5%84%E6%BA%90)
+##### [5、Redis 的全称是什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#5redis-%E7%9A%84%E5%85%A8%E7%A7%B0%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [6、Redis有哪几种数据淘汰策略?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#6redis-%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%95%B0%E6%8D%AE%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5)
+##### [7、Redis官方为什么不提供Windows版本?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#7redis-%E5%AE%98%E6%96%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8F%90%E4%BE%9B-windows-%E7%89%88%E6%9C%AC)
+##### [8、一个字符串类型的值能存储最大容量是多少?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#8%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%80%BC%E8%83%BD%E5%AD%98%E5%82%A8%E6%9C%80%E5%A4%A7%E5%AE%B9%E9%87%8F%E6%98%AF%E5%A4%9A%E5%B0%91)
+##### [9、为什么Redis需要把所有数据放到内存中?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#9%E4%B8%BA%E4%BB%80%E4%B9%88-redis-%E9%9C%80%E8%A6%81%E6%8A%8A%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE%E6%94%BE%E5%88%B0%E5%86%85%E5%AD%98%E4%B8%AD)
+##### [10、Redis 集群方案应该怎么做?都有哪些方案?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#10redis-%E9%9B%86%E7%BE%A4%E6%96%B9%E6%A1%88%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E6%A1%88)
+##### [11、Redis 集群方案什么情况下会导致整个集群不可用?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#11redis-%E9%9B%86%E7%BE%A4%E6%96%B9%E6%A1%88%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E5%AF%BC%E8%87%B4%E6%95%B4%E4%B8%AA%E9%9B%86%E7%BE%A4%E4%B8%8D%E5%8F%AF%E7%94%A8)
+##### [12、MySQL 里有 2000w 数据，redis 中只存 20w 的数据，如何保证 redis中的数据都是热点数据？](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#12mysql-%E9%87%8C%E6%9C%89-2000w-%E6%95%B0%E6%8D%AEredis-%E4%B8%AD%E5%8F%AA%E5%AD%98-20w-%E7%9A%84%E6%95%B0%E6%8D%AE%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81-redis-%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E9%83%BD%E6%98%AF%E7%83%AD%E7%82%B9%E6%95%B0%E6%8D%AE)
+##### [13、Redis有哪些适合的场景?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#13redis-%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%82%E5%90%88%E7%9A%84%E5%9C%BA%E6%99%AF)
+##### [14、Redis.支持的Java客户端都有哪些?官方推荐用哪个?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#14redis-%E6%94%AF%E6%8C%81%E7%9A%84-java-%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%AE%98%E6%96%B9%E6%8E%A8%E8%8D%90%E7%94%A8%E5%93%AA%E4%B8%AA)
+##### [15、Redis 和Redisson有什么关系?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#15redis-%E5%92%8C-redisson-%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB)
+##### [16、Jedis与 Redisson对比有什么优缺点?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#16jedis-%E4%B8%8E-redisson-%E5%AF%B9%E6%AF%94%E6%9C%89%E4%BB%80%E4%B9%88%E4%BC%98%E7%BC%BA%E7%82%B9)
+##### [17、Redis如何设置密码及验证密码?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#17redis-%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81%E5%8F%8A%E9%AA%8C%E8%AF%81%E5%AF%86%E7%A0%81)
+##### [18、说说 Redis 哈希槽的概念?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#18%E8%AF%B4%E8%AF%B4-redis-%E5%93%88%E5%B8%8C%E6%A7%BD%E7%9A%84%E6%A6%82%E5%BF%B5)
+##### [19、Redis 集群的主从复制模型是怎样的?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#19redis-%E9%9B%86%E7%BE%A4%E7%9A%84%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E6%A8%A1%E5%9E%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
+##### [20、Redis集群会有写操作丢失吗?为什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#20redis-%E9%9B%86%E7%BE%A4%E4%BC%9A%E6%9C%89%E5%86%99%E6%93%8D%E4%BD%9C%E4%B8%A2%E5%A4%B1%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88)
+##### [21、Redis 集群之间是如何复制的?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#21redis-%E9%9B%86%E7%BE%A4%E4%B9%8B%E9%97%B4%E6%98%AF%E5%A6%82%E4%BD%95%E5%A4%8D%E5%88%B6%E7%9A%84)
+##### [22、Redis 集群最大节点个数是多少?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#22redis-%E9%9B%86%E7%BE%A4%E6%9C%80%E5%A4%A7%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0%E6%98%AF%E5%A4%9A%E5%B0%91)
+##### [23、Redis 集群如何选择数据库?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#23redis-%E9%9B%86%E7%BE%A4%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E5%BA%93)
+##### [24、怎么测试Redis的连通性?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#24%E6%80%8E%E4%B9%88%E6%B5%8B%E8%AF%95-redis-%E7%9A%84%E8%BF%9E%E9%80%9A%E6%80%A7)
+##### [25、Redis 中的管道有什么用?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#25redis-%E4%B8%AD%E7%9A%84%E7%AE%A1%E9%81%93%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
+##### [26、怎么理解 Redis 事务?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#26%E6%80%8E%E4%B9%88%E7%90%86%E8%A7%A3-redis-%E4%BA%8B%E5%8A%A1)
+##### [27、Redis事务相关的命令有哪几个?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#27redis-%E4%BA%8B%E5%8A%A1%E7%9B%B8%E5%85%B3%E7%9A%84%E5%91%BD%E4%BB%A4%E6%9C%89%E5%93%AA%E5%87%A0%E4%B8%AA)
+##### [28、Redis key的过期时间和永久有效分别怎么设置?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#28redis-key-%E7%9A%84%E8%BF%87%E6%9C%9F%E6%97%B6%E9%97%B4%E5%92%8C%E6%B0%B8%E4%B9%85%E6%9C%89%E6%95%88%E5%88%86%E5%88%AB%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE)
+##### [29、Redis 如何做内存优化?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#29redis-%E5%A6%82%E4%BD%95%E5%81%9A%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96)
+##### [30、Redis回收进程如何工作的?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#30redis-%E5%9B%9E%E6%94%B6%E8%BF%9B%E7%A8%8B%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%90%E8%A1%8C%E4%BA%86%E6%96%B0%E7%9A%84%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E4%BA%86%E6%96%B0%E7%9A%84%E6%95%B0%E6%8D%AE)
+##### [31、Redis回收使用的是什么算法?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#31redis-%E5%9B%9E%E6%94%B6%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E7%AE%97%E6%B3%95)
+##### [32、Redis 如何做大量数据插入?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#32redis-%E5%A6%82%E4%BD%95%E5%81%9A%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E6%8F%92%E5%85%A5)
+##### [33、为什么要做Redis分区?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#33%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%81%9A-redis-%E5%88%86%E5%8C%BA)
+##### [34、有哪些Redis分区实现方案?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#34%E6%9C%89%E5%93%AA%E4%BA%9B-redis-%E5%88%86%E5%8C%BA%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88)
+##### [35、Redis分区有什么缺点?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#35redis-%E5%88%86%E5%8C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%BC%BA%E7%82%B9)
+##### [36、Redis 持久化数据和缓存怎么做扩容？如果 Redis 被当做缓存使用，使用一致性哈希实现动态扩容缩容](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#36redis-%E6%8C%81%E4%B9%85%E5%8C%96%E6%95%B0%E6%8D%AE%E5%92%8C%E7%BC%93%E5%AD%98%E6%80%8E%E4%B9%88%E5%81%9A%E6%89%A9%E5%AE%B9%E5%A6%82%E6%9E%9C-redis-%E8%A2%AB%E5%BD%93%E5%81%9A%E7%BC%93%E5%AD%98%E4%BD%BF%E7%94%A8%E4%BD%BF%E7%94%A8%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%E5%AE%9E%E7%8E%B0%E5%8A%A8%E6%80%81%E6%89%A9%E5%AE%B9%E7%BC%A9%E5%AE%B9)
+##### [37、分布式Redis.是前期做还是后期规模上来了再做好?为什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#37%E5%88%86%E5%B8%83%E5%BC%8F-redis-%E6%98%AF%E5%89%8D%E6%9C%9F%E5%81%9A%E8%BF%98%E6%98%AF%E5%90%8E%E6%9C%9F%E8%A7%84%E6%A8%A1%E4%B8%8A%E6%9D%A5%E4%BA%86%E5%86%8D%E5%81%9A%E5%A5%BD%E4%B8%BA%E4%BB%80%E4%B9%88)
+##### [38、Twemproxy是什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#38twemproxy-%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [39、支持一致性哈希的客户端有哪些?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#39%E6%94%AF%E6%8C%81%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%E7%9A%84%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%9C%89%E5%93%AA%E4%BA%9B)
+##### [40、Redis与其他 key-value存储有什么不同?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#40redis-%E4%B8%8E%E5%85%B6%E4%BB%96-key-value-%E5%AD%98%E5%82%A8%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E5%90%8C)
+##### [41、Redis的内存占用情况怎么样?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#41redis-%E7%9A%84%E5%86%85%E5%AD%98%E5%8D%A0%E7%94%A8%E6%83%85%E5%86%B5%E6%80%8E%E4%B9%88%E6%A0%B7)
+##### [42、都有哪些办法可以降低Redis的内存使用情况呢?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#42%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8A%9E%E6%B3%95%E5%8F%AF%E4%BB%A5%E9%99%8D%E4%BD%8E-redis-%E7%9A%84%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E5%91%A2)
+##### [43、查看Redis使用情况及状态信息用什么命令?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#43%E6%9F%A5%E7%9C%8B-redis-%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E5%8F%8A%E7%8A%B6%E6%80%81%E4%BF%A1%E6%81%AF%E7%94%A8%E4%BB%80%E4%B9%88%E5%91%BD%E4%BB%A4)
+##### [44、Redis 的内存用完了会发生什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#44redis-%E7%9A%84%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E4%BA%86%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88)
+##### [45、Redis是单线程的，如何提高多核CPU的利用率?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#45redis-%E6%98%AF%E5%8D%95%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E5%A4%9A%E6%A0%B8-cpu-%E7%9A%84%E5%88%A9%E7%94%A8%E7%8E%87)
+##### [46、一个 Redis 实例最多能存放多少的keys？List、Set、Sorted Set 他们最多能存放多少元素？](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#46%E4%B8%80%E4%B8%AA-redis-%E5%AE%9E%E4%BE%8B%E6%9C%80%E5%A4%9A%E8%83%BD%E5%AD%98%E6%94%BE%E5%A4%9A%E5%B0%91%E7%9A%84keyslistsetsorted-set-%E4%BB%96%E4%BB%AC%E6%9C%80%E5%A4%9A%E8%83%BD%E5%AD%98%E6%94%BE%E5%A4%9A%E5%B0%91%E5%85%83%E7%B4%A0)
+##### [47、Redis 常见性能问题和解决方案?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#47redis-%E5%B8%B8%E8%A7%81%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E5%92%8C%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+##### [48、Redis提供了哪几种持久化方式?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#48redis-%E6%8F%90%E4%BE%9B%E4%BA%86%E5%93%AA%E5%87%A0%E7%A7%8D%E6%8C%81%E4%B9%85%E5%8C%96%E6%96%B9%E5%BC%8F)
+##### [49、如何选择合适的持久化方式?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#49%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%E5%90%88%E9%80%82%E7%9A%84%E6%8C%81%E4%B9%85%E5%8C%96%E6%96%B9%E5%BC%8F)
+##### [50、修改配置不重启 Redis 会实时生效吗？](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#50%E4%BF%AE%E6%94%B9%E9%85%8D%E7%BD%AE%E4%B8%8D%E9%87%8D%E5%90%AF-redis-%E4%BC%9A%E5%AE%9E%E6%97%B6%E7%94%9F%E6%95%88%E5%90%97)
 
 <br>
 
