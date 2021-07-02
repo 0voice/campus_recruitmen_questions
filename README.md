@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天持续更新中。。。
-* [ACM（已更新70道）](#1)
+* [ACM（已更新100道）](#1)
 * [剑指offer](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -93,36 +93,36 @@
 ##### [68、zoj 2451 Minimizing maximizer](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202451%20Minimizing%20maximizer.md)
 ##### [69、poj 3222 Edge Pairing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203222%20Edge%20Pairing.md)
 ##### [70、poj 1984 Navigation Nightmare](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201984%20Navigation%20Nightmare.md)
-##### 71、poj 3860 Fruit Weights
-##### 72、poj 2664 Prerequisites?
-##### 73、poj 3376 Finding Palindromes
-##### 74、zoj 2725 Digital Deletions
-##### 75、zoj 1797 Least Common Multiple
-##### 76、poj 3356 AGTC
-##### 77、zoj 1743 Concert Hall Scheduling
-##### 78、zoj 1566 Too Lazy To Move
-##### 79、poj 3802 Cubist Artwork
-##### 80、zoj 3347 Picture Handling
-##### 81、zoj 1325 Palindromes
-##### 82、zoj 2933 Slink
-##### 83、zoj 1671 Walking Ant
-##### 84、zoj 3661 Palindromic Substring
-##### 85、poj 2362 Square
-##### 86、zoj 2665 Heapsort
-##### 87、poj 3883 Penguin Bashing
-##### 88、poj 3585 Accumulation Degree
-##### 89、poj 1480 Optimal Programs
-##### 90、poj 2458 Rigging the Bovine E...
-##### 91、poj 3191 The Moronic Cowmpouter
-##### 92、poj 2903 Joy of Mobile Routing
-##### 93、zoj 3898 Stean
-##### 94、poj 1972 Dice Stacking
-##### 95、poj 3363 Annoying painting tool
-##### 96、zoj 3795 Grouping
-##### 97、poj 2007 Scrambled Polygon
-##### 98、zoj 1535 Lucky Ticket
-##### 99、zoj 1496 Best Fit
-##### 100、poj 1284 Primitive Roots
+##### [71、poj 3860 Fruit Weights](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203860%20Fruit%20Weights.md)
+##### [72、poj 2664 Prerequisites?](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202664%20Prerequisites%3F.md)
+##### [73、poj 3376 Finding Palindromes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203376%20Finding%20Palindromes.md)
+##### [74、zoj 2725 Digital Deletions](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202725%20Digital%20Deletions.md)
+##### [75、zoj 1797 Least Common Multiple](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201797%20Least%20Common%20Multiple.md)
+##### [76、poj 3356 AGTC](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203356%20AGTC.md)
+##### [77、zoj 1743 Concert Hall Scheduling](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201743%20Concert%20Hall%20Scheduling.md)
+##### [78、zoj 1566 Too Lazy To Move](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201566%20Too%20Lazy%20To%20Move.md)
+##### [79、poj 3802 Cubist Artwork](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203802%20Cubist%20Artwork.md)
+##### [80、zoj 3347 Picture Handling](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203347%20Picture%20Handling.md)
+##### [81、zoj 1325 Palindromes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201325%20Palindromes.md)
+##### [82、zoj 3634 Bounty hunter](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203634%20Bounty%20hunter.md)
+##### [83、zoj 1671 Walking Ant](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201671%20Walking%20Ant.md)
+##### [84、zoj 3661 Palindromic Substring](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203661%20Palindromic%20Substring.md)
+##### [85、poj 2362 Square](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202362%20Square.md)
+##### [86、zoj 2665 Heapsort](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202665%20Heapsort.md)
+##### [87、poj 3883 Penguin Bashing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203883%20Penguin%20Bashing.md)
+##### [88、poj 3585 Accumulation Degree](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203585%20Accumulation%20Degree.md)
+##### [89、poj 1480 Optimal Programs](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201480%20Optimal%20Programs.md)
+##### [90、poj 2458 Rigging the Bovine Election](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202458%20Rigging%20the%20Bovine%20Election.md)
+##### [91、poj 3191 The Moronic Cowmpouter](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203191%20The%20Moronic%20Cowmpouter.md)
+##### [92、poj 2903 Joy of Mobile Routing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202903%20Joy%20of%20Mobile%20Routing.md)
+##### [93、zoj 3898 Stean](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203898%20Stean.md)
+##### [94、poj 1972 Dice Stacking](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201972%20Dice%20Stacking.md)
+##### [95、poj 3363 Annoying painting tool](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203363%20Annoying%20painting%20tool.md)
+##### [96、zoj 3795 Grouping](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203795%20Grouping.md)
+##### [97、poj 2007 Scrambled Polygon](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202007%20Scrambled%20Polygon.md)
+##### [98、zoj 1535 Lucky Ticket](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201535%20Lucky%20Ticket.md)
+##### [99、zoj 1496 Best Fit](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201496%20Best%20Fit.md)
+##### [100、poj 1284 Primitive Roots](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201284%20Primitive%20Roots.md)
 ##### 101、zoj 1966 Etaoin Shrdlu
 ##### 102、poj 1051 P,MTHBGWB
 ##### 103、poj 2201 Cartesian Tree
