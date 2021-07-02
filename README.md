@@ -71,7 +71,7 @@
 ##### [46、zoj 1810 The Gourmet Club](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201810%20The%20Gourmet%20Club.md)
 ##### [47、zoj 1898 Discrete Logging](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201898%20Discrete%20Logging.md)
 ##### [48、zoj 3836 Circulation pipe](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203836%20Circulation%20pipe.md)
-##### 49、[poj 3495 Bitwise XOR of Arithmetic Progression](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203495%20Bitwise%20XOR%20of%20Arithmetic%20Progression.md)
+##### [49、poj 3495 Bitwise XOR of Arithmetic Progression](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203495%20Bitwise%20XOR%20of%20Arithmetic%20Progression.md)
 ##### [50、poj 3435 Sudoku Checker](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203435%20Sudoku%20Checker.md)
 ##### [51、zoj 3114 Double Queue](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203114%20Double%20Queue.md)
 ##### [52、poj 2506 Tiling](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202506%20Tiling.md)
