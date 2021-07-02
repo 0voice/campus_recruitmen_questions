@@ -43,16 +43,16 @@
 ##### [18、poj 1523 SPF](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201523%20SPF.md)
 ##### [19、poj 1308 Is It A Tree?](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201308%20Is%20It%20A%20Tree%3F.md)
 ##### [20、poj 2442 Sequence](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202442%20Sequence.md)
-##### 21、poj 2417 Discrete Logging
-##### 22、poj 3484 Showstopper
-##### 23、zoj 3109 Decode Message
-##### 24、poj 3548 Restoring the digits
-##### 25、zoj 2561 Order-Preserving Codes
-##### 26、poj 2482 Stars in Your Window
-##### 27、zoj 1507 Crazy Search
-##### 28、poj 2447 RSA
-##### 29、poj 1628 Deduction
-##### 30、zoj 3019 Puzzle
+##### [21、poj 2417 Discrete Logging](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202417%20Discrete%20Logging.md)
+##### [22、poj 3484 Showstopper](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203484%20Showstopper.md)
+##### [23、zoj 3109 Decode Message](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203109%20Decode%20Message.md)
+##### [24、poj 3548 Restoring the digits](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203548%20Restoring%20the%20digits.md)
+##### [25、zoj 2561 Order-Preserving Codes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202561%20Order-Preserving%20Codes.md)
+##### [26、poj 2482 Stars in Your Window](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202482%20Stars%20in%20Your%20Window.md)
+##### [27、zoj 1507 Crazy Search](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201507%20Crazy%20Search.md)
+##### [28、poj 2447 RSA](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202447%20RSA.md)
+##### [29、poj 1628 Deduction](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201628%20Deduction.md)
+##### [30、zoj 3019 Puzzle](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203019%20Puzzle.md)
 ##### 31、poj 1977 Odd Loving Bakers
 ##### 32、poj 1989 The Cow Lineup
 ##### 33、poj 2672 Hotkeys
