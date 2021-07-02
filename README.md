@@ -73,26 +73,26 @@
 ##### [48、zoj 3836 Circulation pipe](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203836%20Circulation%20pipe.md)
 ##### 49、[poj 3495 Bitwise XOR of Arithmetic Progression](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203495%20Bitwise%20XOR%20of%20Arithmetic%20Progression.md)
 ##### [50、poj 3435 Sudoku Checker](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203435%20Sudoku%20Checker.md)
-##### 51、zoj 3114 Double Queue
-##### 52、poj 2506 Tiling
-##### 53、zoj 2151 The Highest Profits
-##### 54、poj 1077 Eight
-##### 55、poj 1090 Chain
-##### 56、zoj 3890 Wumpus
-##### 57、poj 3532 Resistance
-##### 58、zoj 1344 A Mazing Problem
-##### 59、zoj 1259 Rails
-##### 60、poj 3183 Stump Removal
-##### 61、poj 2893 M × N Puzzle
-##### 62、zoj 1119 SPF
-##### 63、poj 3635 Full Tank?
-##### 64、poj 3573 I18n
-##### 65、zoj 1179 Finding Rectangles
-##### 66、poj 3449 Geometric Shapes
-##### 67、poj 2749 Building roads
-##### 68、zoj 2451 Minimizing maximizer
-##### 69、poj 3222 Edge Pairing
-##### 70、poj 1984 Navigation Nightmare
+##### [51、zoj 3114 Double Queue](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203114%20Double%20Queue.md)
+##### [52、poj 2506 Tiling](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202506%20Tiling.md)
+##### [53、zoj 2151 The Highest Profits](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202151%20The%20Highest%20Profits.md)
+##### [54、poj 1077 Eight](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201077%20Eight.md)
+##### [55、poj 1090 Chain](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201090%20Chain.md)
+##### [56、zoj 3890 Wumpus](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203890%20Wumpus.md)
+##### [57、poj 3532 Resistance](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203532%20Resistance.md)
+##### [58、zoj 1344 A Mazing Problem](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201344%20A%20Mazing%20Problem.md)
+##### [59、zoj 1259 Rails](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201259%20Rails.md)
+##### [60、poj 3183 Stump Removal](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203183%20Stump%20Removal.md)
+##### [61、poj 2893 M × N Puzzle](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202893%20M%20%C3%97%20N%20Puzzle.md)
+##### [62、zoj 1119 SPF](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201119%20SPF.md)
+##### [63、poj 3635 Full Tank?](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203635%20Full%20Tank%3F.md)
+##### [64、poj 3573 I18n](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203573%20I18n.md)
+##### [65、zoj 1179 Finding Rectangles](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201179%20Finding%20Rectangles.md)
+##### [66、poj 3449 Geometric Shapes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203449%20Geometric%20Shapes.md)
+##### [67、poj 2749 Building roads](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202749%20Building%20roads.md)
+##### [68、zoj 2451 Minimizing maximizer](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202451%20Minimizing%20maximizer.md)
+##### [69、poj 3222 Edge Pairing](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203222%20Edge%20Pairing.md)
+##### [70、poj 1984 Navigation Nightmare](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201984%20Navigation%20Nightmare.md)
 ##### 71、poj 3860 Fruit Weights
 ##### 72、poj 2664 Prerequisites?
 ##### 73、poj 3376 Finding Palindromes
