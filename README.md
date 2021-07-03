@@ -9,7 +9,7 @@
 * [网络原理（已更新36道）](#8)
 * [网络编程（已更新25道）](#9)
 * [操作系统（已更新18道）](#10)
-* [编译原理](#11)
+* [编译原理（已更新5道）](#11)
 * [内存](#12)
 * [并发](#14)
 * [堆与栈](#15)
@@ -2023,11 +2023,11 @@
 <h3 id="11">编译原理</h3> 
 
 ---
-##### 1、什么是语法分析？
-##### 2、什么是自顶向下分析法？
-##### 3、在自顶向下的分析过程中，存在的问题是什么？
-##### 4、什么是确定的自顶向下分析法？
-##### 5、存在的问题
+##### [1、什么是语法分析？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90)
+##### [2、什么是自顶向下分析法？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#2%E4%BB%80%E4%B9%88%E6%98%AF%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E5%88%86%E6%9E%90%E6%B3%95)
+##### [3、在自顶向下的分析过程中，存在的问题是什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#3%E5%9C%A8%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E7%9A%84%E5%88%86%E6%9E%90%E8%BF%87%E7%A8%8B%E4%B8%AD%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [4、什么是确定的自顶向下分析法？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#4%E4%BB%80%E4%B9%88%E6%98%AF%E7%A1%AE%E5%AE%9A%E7%9A%84%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E5%88%86%E6%9E%90%E6%B3%95)
+##### [5、存在的问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#5%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98)
 ##### 6、gcc hello.c 这行命令具体的执行过程，内部究竟做了什么？
 ##### 7、程序一定会从main函数开始运行吗？
 ##### 8、如何确定某个函数有被编译输出？
