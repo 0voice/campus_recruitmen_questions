@@ -8,7 +8,7 @@
 * [语法语言](#7)
 * [网络原理（已更新36道）](#8)
 * [网络编程](#9)
-* [操作系统](#10)
+* [操作系统（已更新18道）](#10)
 * [编译原理](#11)
 * [内存](#12)
 * [并发](#14)
@@ -1997,24 +1997,24 @@
 <h3 id="10">操作系统</h3> 
 
 ---
-##### 1、什么是操作系统？
-##### 2、什么是系统调用？
-##### 3、进程和线程的区别？
-##### 4、进程有哪几种状态?
-##### 5、进程间的通信方式
-##### 6、线程间的同步的方式
-##### 7、进程的调度算法
-##### 8、操作系统的内存管理主要是做什么？
-##### 9、常见的几种内存管理机制
-##### 10、快表和多级页表
-##### 11、分页机制和分段机制的共同点和区别
-##### 12、逻辑(虚拟)地址和物理地址
-##### 13、CPU 寻址了解吗?为什么需要虚拟地址空间?
-##### 14、什么是虚拟内存(Virtual Memory)?
-##### 15、局部性原理
-##### 16、虚拟存储器
-##### 17、虚拟内存的技术实现
-##### 18、页面置换算法
+##### [1、什么是操作系统？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+##### [2、什么是系统调用？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#2%E4%BB%80%E4%B9%88%E6%98%AF%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8)
+##### [3、进程和线程的区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#3%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B%E7%9A%84%E5%8C%BA%E5%88%AB)
+##### [4、进程有哪几种状态?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#4%E8%BF%9B%E7%A8%8B%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E7%8A%B6%E6%80%81)
+##### [5、进程间的通信方式](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#5%E8%BF%9B%E7%A8%8B%E9%97%B4%E7%9A%84%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F)
+##### [6、线程间的同步的方式](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#6%E7%BA%BF%E7%A8%8B%E9%97%B4%E7%9A%84%E5%90%8C%E6%AD%A5%E7%9A%84%E6%96%B9%E5%BC%8F)
+##### [7、进程的调度算法](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#7%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95)
+##### [8、操作系统的内存管理主要是做什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E4%B8%BB%E8%A6%81%E6%98%AF%E5%81%9A%E4%BB%80%E4%B9%88)
+##### [9、常见的几种内存管理机制](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#9%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E7%A7%8D%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6)
+##### [10、快表和多级页表](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#10%E5%BF%AB%E8%A1%A8%E5%92%8C%E5%A4%9A%E7%BA%A7%E9%A1%B5%E8%A1%A8)
+##### [11、分页机制和分段机制的共同点和区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#11%E5%88%86%E9%A1%B5%E6%9C%BA%E5%88%B6%E5%92%8C%E5%88%86%E6%AE%B5%E6%9C%BA%E5%88%B6%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%E5%92%8C%E5%8C%BA%E5%88%AB)
+##### [12、逻辑(虚拟)地址和物理地址](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#12%E9%80%BB%E8%BE%91%E8%99%9A%E6%8B%9F%E5%9C%B0%E5%9D%80%E5%92%8C%E7%89%A9%E7%90%86%E5%9C%B0%E5%9D%80)
+##### [13、CPU 寻址了解吗?为什么需要虚拟地址空间?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#13cpu-%E5%AF%BB%E5%9D%80%E4%BA%86%E8%A7%A3%E5%90%97%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E8%99%9A%E6%8B%9F%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4)
+##### [14、什么是虚拟内存(Virtual Memory)?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#14%E4%BB%80%E4%B9%88%E6%98%AF%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98virtual-memory)
+##### [15、局部性原理](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#15%E5%B1%80%E9%83%A8%E6%80%A7%E5%8E%9F%E7%90%86)
+##### [16、虚拟存储器](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#16%E8%99%9A%E6%8B%9F%E5%AD%98%E5%82%A8%E5%99%A8)
+##### [17、虚拟内存的技术实现](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#17%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0)
+##### [18、页面置换算法](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#18%E9%A1%B5%E9%9D%A2%E7%BD%AE%E6%8D%A2%E7%AE%97%E6%B3%95)
 ##### 19、操作系统是怎么进行进程管理的？
 ##### 20、操作系统是如何做到进程阻塞的？
 ##### 21、线程是如何实现的？
