@@ -6,7 +6,7 @@
 * [redis（已更新50道）](#5)
 * [nginx（已更新32道）](#6)
 * [语法语言](#7)
-* [网络原理（已更新13道）](#8)
+* [网络原理（已更新36道）](#8)
 * [网络编程](#9)
 * [操作系统](#10)
 * [编译原理](#11)
@@ -1927,29 +1927,29 @@
 ##### [11.说说 HTTP1.1 相比 HTTP1.0 提高了什么性能？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#11%E8%AF%B4%E8%AF%B4-http11-%E7%9B%B8%E6%AF%94-http10-%E6%8F%90%E9%AB%98%E4%BA%86%E4%BB%80%E4%B9%88%E6%80%A7%E8%83%BD)
 ##### [12.那上面的 HTTP1.1 的性能瓶颈，HTTP2 做了什么优化？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#12%E9%82%A3%E4%B8%8A%E9%9D%A2%E7%9A%84-http11-%E7%9A%84%E6%80%A7%E8%83%BD%E7%93%B6%E9%A2%88http2-%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88%E4%BC%98%E5%8C%96)
 ##### [13.HTTP2 有哪些缺陷？HTTP3 做了哪些优化？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#13http2-%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BC%BA%E9%99%B7http3-%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8C%96)
-##### 14.HTTP 与 HTTPS 有哪些区别？
-##### 15.HTTPS 解决了 HTTP 的哪些问题？
-##### 16.HTTPS 是如何解决上面的三个风险的？
-##### 17.HTTPS 是如何建立连接的？其间交互了什么？
-##### 18.UDP 和 TCP 的区别
-##### 19.TCP 三次握手和四次挥手
-##### 20.说说TCP传输的三次握手四次挥手策略
-##### 21.什么是无状态协议，HTTP 是无状态协议吗，怎么解决
-##### 22.OSI与TCP/IP各层的结构与功能,都有哪些协议?
-##### 23.TCP协议如何保证可靠传输
-##### 24.说说ARQ协议
-##### 25.什么是滑动窗口和流量控制
-##### 26.什么是拥塞控制
-##### 27.在浏览器中输入url地址 ->> 显示主页的过程？
-##### 28.HTTP长连接,短连接
-##### 29.Cookie的作用是什么?和Session有什么区别？
-##### 30.URI和URL的区别是什么?
-##### 31.HTTP常见的状态码有哪些？
-##### 32.说说常见的常见HTTP首部字段？
-##### 33.HTTPS方式与web服务器通信的步骤？
-##### 34.HTTP请求报文与响应报文格式？
-##### 35.地址栏输入 URL 发生了什么？
-##### 36.HTTPS的工作原理
+##### [14.HTTP 与 HTTPS 有哪些区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#14http-%E4%B8%8E-https-%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8C%BA%E5%88%AB)
+##### [15.HTTPS 解决了 HTTP 的哪些问题？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#15https-%E8%A7%A3%E5%86%B3%E4%BA%86-http-%E7%9A%84%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+##### [16.HTTPS 是如何解决上面的三个风险的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#16https-%E6%98%AF%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E4%B8%8A%E9%9D%A2%E7%9A%84%E4%B8%89%E4%B8%AA%E9%A3%8E%E9%99%A9%E7%9A%84)
+##### [17.HTTPS 是如何建立连接的？其间交互了什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#17https-%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E7%AB%8B%E8%BF%9E%E6%8E%A5%E7%9A%84%E5%85%B6%E9%97%B4%E4%BA%A4%E4%BA%92%E4%BA%86%E4%BB%80%E4%B9%88)
+##### [18.UDP 和 TCP 的区别](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#18udp-%E5%92%8C-tcp-%E7%9A%84%E5%8C%BA%E5%88%AB)
+##### [19.TCP 三次握手和四次挥手](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#19tcp-%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B)
+##### [20.说说TCP传输的三次握手四次挥手策略](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#20%E8%AF%B4%E8%AF%B4tcp%E4%BC%A0%E8%BE%93%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B%E7%AD%96%E7%95%A5)
+##### [21.什么是无状态协议，HTTP 是无状态协议吗，怎么解决](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#21%E4%BB%80%E4%B9%88%E6%98%AF%E6%97%A0%E7%8A%B6%E6%80%81%E5%8D%8F%E8%AE%AEhttp-%E6%98%AF%E6%97%A0%E7%8A%B6%E6%80%81%E5%8D%8F%E8%AE%AE%E5%90%97%E6%80%8E%E4%B9%88%E8%A7%A3%E5%86%B3)
+##### [22.OSI与TCP/IP各层的结构与功能,都有哪些协议?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#22osi%E4%B8%8Etcpip%E5%90%84%E5%B1%82%E7%9A%84%E7%BB%93%E6%9E%84%E4%B8%8E%E5%8A%9F%E8%83%BD%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%8F%E8%AE%AE)
+##### [23.TCP协议如何保证可靠传输](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#23tcp%E5%8D%8F%E8%AE%AE%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E5%8F%AF%E9%9D%A0%E4%BC%A0%E8%BE%93)
+##### [24.说说ARQ协议](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#24%E8%AF%B4%E8%AF%B4arq%E5%8D%8F%E8%AE%AE)
+##### [25.什么是滑动窗口和流量控制](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#25%E4%BB%80%E4%B9%88%E6%98%AF%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%92%8C%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6)
+##### [26.什么是拥塞控制](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#26%E4%BB%80%E4%B9%88%E6%98%AF%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6)
+##### [27.在浏览器中输入url地址 ->> 显示主页的过程？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#27%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%BE%93%E5%85%A5url%E5%9C%B0%E5%9D%80---%E6%98%BE%E7%A4%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E8%BF%87%E7%A8%8B)
+##### [28.HTTP长连接,短连接](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#28http%E9%95%BF%E8%BF%9E%E6%8E%A5%E7%9F%AD%E8%BF%9E%E6%8E%A5)
+##### [29.Cookie的作用是什么?和Session有什么区别？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#29cookie%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88%E5%92%8Csession%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+##### [30.URI和URL的区别是什么?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#30uri%E5%92%8Curl%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [31.HTTP常见的状态码有哪些？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#31http%E5%B8%B8%E8%A7%81%E7%9A%84%E7%8A%B6%E6%80%81%E7%A0%81%E6%9C%89%E5%93%AA%E4%BA%9B)
+##### [32.说说常见的常见HTTP首部字段？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#32%E8%AF%B4%E8%AF%B4%E5%B8%B8%E8%A7%81%E7%9A%84%E5%B8%B8%E8%A7%81http%E9%A6%96%E9%83%A8%E5%AD%97%E6%AE%B5)
+##### [33.HTTPS方式与web服务器通信的步骤？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#33https%E6%96%B9%E5%BC%8F%E4%B8%8Eweb%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%9A%E4%BF%A1%E7%9A%84%E6%AD%A5%E9%AA%A4)
+##### [34.HTTP请求报文与响应报文格式？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#34http%E8%AF%B7%E6%B1%82%E6%8A%A5%E6%96%87%E4%B8%8E%E5%93%8D%E5%BA%94%E6%8A%A5%E6%96%87%E6%A0%BC%E5%BC%8F)
+##### [35.地址栏输入 URL 发生了什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#35%E5%9C%B0%E5%9D%80%E6%A0%8F%E8%BE%93%E5%85%A5-url-%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+##### [36.HTTPS的工作原理](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#36https%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86)
 
 <br>
 
