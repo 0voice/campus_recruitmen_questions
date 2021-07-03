@@ -7,7 +7,7 @@
 * [nginx（已更新32道）](#6)
 * [语法语言](#7)
 * [网络原理（已更新36道）](#8)
-* [网络编程](#9)
+* [网络编程（已更新25道）](#9)
 * [操作系统（已更新18道）](#10)
 * [编译原理](#11)
 * [内存](#12)
@@ -1956,41 +1956,31 @@
 <h3 id="9">网络编程</h3> 
 
 ---
-##### 1、进程间的通信方式有哪些？互斥的具体原理？
-##### 2、用过数据库吗？masql数据库中会用到哪些锁？
-##### 3、谈一下对乐观锁和悲观锁的认识
-##### 4、流量控制是怎么实现的？（滑动窗口）滑动窗口的大小具体是怎么变化的？
-##### 5、慢启动曲线
-##### 6、https在平时的项目中有用到过吗？
-##### 7、301和302的区别？
-##### 8、三次握手的具体实现，time_wait原理？
-##### 9、怎么求两个节点的最近公共祖先？
-##### 10、什么是IO多路复用
-##### 11、poll和epoll的区别
-##### 12、epool中et和lt的区别与实现原理
-##### 13、tcp连接建立的时候3次握手，断开连接的4次握手的具体过程
-##### 14、connect方法会阻塞，请问有什么方法可以避免其长时间阻塞？
-##### 15、网络中，如果客户端突然掉线或者重启，服务器端怎么样才能立刻知道？
-##### 16、在子网210.27.48.21/30种有多少个可用地址？分别是什么？
-##### 17、TTL是什么？有什么用处，通常那些工具会用到它？（ping? traceroute? ifconfig? netstat?）
-##### 18、路由表示做什么用的？在linux环境中怎么来配置一条默认路由？
-##### 19、在网络中有两台主机A和B，并通过路由器和其他交换设备连接起来，已经确认物理连接正确无误，怎么来测试这两台机器是否连通？如果不通，怎么来判断故障点？怎么排除故障？
-##### 20、网络编程中设计并发服务器，使用多进程 与 多线程 ，请问有什么区别？ 
-##### 21、网络编程的一般步骤
-##### 22、TCP的重发机制是怎么实现的？
-##### 23、TCP为什么不是两次连接？而是三次握手？
-##### 24、socket编程，如果client断电了，服务器如何快速知道？
-##### 25、fork()一子进程程后 父进程癿全局变量能不能使用？
-##### 26、4G的long型整数中找到一个最大的，如何做？
-##### 27、tcp三次握手的过程，accept发生在三次握手哪个阶段？
-##### 28、tcp流， udp的数据报，之间有什么区别，为什么TCP要叫做数据流？
-##### 29、socket在什么情况下可读?
-##### 30、TCP通讯中，select到读事件，但是读到的数据量是0，为什么，如何解决?
-##### 31、说说IO多路复用优缺点？
-##### 32、说说select机制的缺点
-##### 33、说一下epoll的好处
-##### 34、epoll需要在用户态和内核态拷贝数据么？
-##### 35、epoll的实现知道么？在内核当中是什么样的数据结构进行存储，每个操作的时间复杂度是多少？
+##### [1、什么是IO多路复用](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AFio%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8)
+##### [2、epool中et和lt的区别与实现原理](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#2epool%E4%B8%ADet%E5%92%8Clt%E7%9A%84%E5%8C%BA%E5%88%AB%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
+##### [3、tcp连接建立的时候3次握手，断开连接的4次握手的具体过程](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#3tcp%E8%BF%9E%E6%8E%A5%E5%BB%BA%E7%AB%8B%E7%9A%84%E6%97%B6%E5%80%993%E6%AC%A1%E6%8F%A1%E6%89%8B%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5%E7%9A%844%E6%AC%A1%E6%8F%A1%E6%89%8B%E7%9A%84%E5%85%B7%E4%BD%93%E8%BF%87%E7%A8%8B)
+##### [4、connect方法会阻塞，请问有什么方法可以避免其长时间阻塞？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#4connect%E6%96%B9%E6%B3%95%E4%BC%9A%E9%98%BB%E5%A1%9E%E8%AF%B7%E9%97%AE%E6%9C%89%E4%BB%80%E4%B9%88%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E5%85%B6%E9%95%BF%E6%97%B6%E9%97%B4%E9%98%BB%E5%A1%9E)
+##### [5、网络中，如果客户端突然掉线或者重启，服务器端怎么样才能立刻知道？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#5%E7%BD%91%E7%BB%9C%E4%B8%AD%E5%A6%82%E6%9E%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%AA%81%E7%84%B6%E6%8E%89%E7%BA%BF%E6%88%96%E8%80%85%E9%87%8D%E5%90%AF%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E6%89%8D%E8%83%BD%E7%AB%8B%E5%88%BB%E7%9F%A5%E9%81%93)
+##### [6、在子网210.27.48.21/30种有多少个可用地址？分别是什么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#6%E5%9C%A8%E5%AD%90%E7%BD%9121027482130%E7%A7%8D%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%8F%AF%E7%94%A8%E5%9C%B0%E5%9D%80%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
+##### [7、TTL是什么？有什么用处，通常那些工具会用到它？（ping? traceroute? ifconfig? netstat?）](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#7ttl%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%E5%A4%84%E9%80%9A%E5%B8%B8%E9%82%A3%E4%BA%9B%E5%B7%A5%E5%85%B7%E4%BC%9A%E7%94%A8%E5%88%B0%E5%AE%83ping-traceroute-ifconfig-netstat)
+##### [8、路由表示做什么用的？在linux环境中怎么来配置一条默认路由？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#8%E8%B7%AF%E7%94%B1%E8%A1%A8%E7%A4%BA%E5%81%9A%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%E5%9C%A8linux%E7%8E%AF%E5%A2%83%E4%B8%AD%E6%80%8E%E4%B9%88%E6%9D%A5%E9%85%8D%E7%BD%AE%E4%B8%80%E6%9D%A1%E9%BB%98%E8%AE%A4%E8%B7%AF%E7%94%B1)
+##### [9、在网络中有两台主机A和B，并通过路由器和其他交换设备连接起来，已经确认物理连接正确无误，怎么来测试这两台机器是否连通？如果不通，怎么来判断故障点？怎么排除故障？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#9%E5%9C%A8%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%9C%89%E4%B8%A4%E5%8F%B0%E4%B8%BB%E6%9C%BAa%E5%92%8Cb%E5%B9%B6%E9%80%9A%E8%BF%87%E8%B7%AF%E7%94%B1%E5%99%A8%E5%92%8C%E5%85%B6%E4%BB%96%E4%BA%A4%E6%8D%A2%E8%AE%BE%E5%A4%87%E8%BF%9E%E6%8E%A5%E8%B5%B7%E6%9D%A5%E5%B7%B2%E7%BB%8F%E7%A1%AE%E8%AE%A4%E7%89%A9%E7%90%86%E8%BF%9E%E6%8E%A5%E6%AD%A3%E7%A1%AE%E6%97%A0%E8%AF%AF%E6%80%8E%E4%B9%88%E6%9D%A5%E6%B5%8B%E8%AF%95%E8%BF%99%E4%B8%A4%E5%8F%B0%E6%9C%BA%E5%99%A8%E6%98%AF%E5%90%A6%E8%BF%9E%E9%80%9A%E5%A6%82%E6%9E%9C%E4%B8%8D%E9%80%9A%E6%80%8E%E4%B9%88%E6%9D%A5%E5%88%A4%E6%96%AD%E6%95%85%E9%9A%9C%E7%82%B9%E6%80%8E%E4%B9%88%E6%8E%92%E9%99%A4%E6%95%85%E9%9A%9C)
+##### [10、网络编程中设计并发服务器，使用多进程 与 多线程 ，请问有什么区别？ ](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#10%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E4%B8%AD%E8%AE%BE%E8%AE%A1%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8%E5%A4%9A%E8%BF%9B%E7%A8%8B-%E4%B8%8E-%E5%A4%9A%E7%BA%BF%E7%A8%8B-%E8%AF%B7%E9%97%AE%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+##### [11、网络编程的一般步骤](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#11%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E7%9A%84%E4%B8%80%E8%88%AC%E6%AD%A5%E9%AA%A4)
+##### [12、TCP的重发机制是怎么实现的？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#12tcp%E7%9A%84%E9%87%8D%E5%8F%91%E6%9C%BA%E5%88%B6%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84)
+##### [13、TCP为什么不是两次连接？而是三次握手？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#13tcp%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%98%AF%E4%B8%A4%E6%AC%A1%E8%BF%9E%E6%8E%A5%E8%80%8C%E6%98%AF%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B)
+##### [14、socket编程，如果client断电了，服务器如何快速知道？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#14socket%E7%BC%96%E7%A8%8B%E5%A6%82%E6%9E%9Cclient%E6%96%AD%E7%94%B5%E4%BA%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E7%9F%A5%E9%81%93)
+##### [15、fork()一子进程程后 父进程癿全局变量能不能使用？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#15fork%E4%B8%80%E5%AD%90%E8%BF%9B%E7%A8%8B%E7%A8%8B%E5%90%8E-%E7%88%B6%E8%BF%9B%E7%A8%8B%E7%99%BF%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8)
+##### [16、4G的long型整数中找到一个最大的，如何做？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#164g%E7%9A%84long%E5%9E%8B%E6%95%B4%E6%95%B0%E4%B8%AD%E6%89%BE%E5%88%B0%E4%B8%80%E4%B8%AA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A6%82%E4%BD%95%E5%81%9A)
+##### [17、tcp三次握手的过程，accept发生在三次握手哪个阶段？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#17tcp%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E7%9A%84%E8%BF%87%E7%A8%8Baccept%E5%8F%91%E7%94%9F%E5%9C%A8%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%93%AA%E4%B8%AA%E9%98%B6%E6%AE%B5)
+##### [18、tcp流， udp的数据报，之间有什么区别，为什么TCP要叫做数据流？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#18tcp%E6%B5%81-udp%E7%9A%84%E6%95%B0%E6%8D%AE%E6%8A%A5%E4%B9%8B%E9%97%B4%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E4%B8%BA%E4%BB%80%E4%B9%88tcp%E8%A6%81%E5%8F%AB%E5%81%9A%E6%95%B0%E6%8D%AE%E6%B5%81)
+##### [19、socket在什么情况下可读?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#19socket%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%8F%AF%E8%AF%BB)
+##### [20、TCP通讯中，select到读事件，但是读到的数据量是0，为什么，如何解决?](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#20tcp%E9%80%9A%E8%AE%AF%E4%B8%ADselect%E5%88%B0%E8%AF%BB%E4%BA%8B%E4%BB%B6%E4%BD%86%E6%98%AF%E8%AF%BB%E5%88%B0%E7%9A%84%E6%95%B0%E6%8D%AE%E9%87%8F%E6%98%AF0%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3)
+##### [21、说说IO多路复用优缺点？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#21%E8%AF%B4%E8%AF%B4io%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8%E4%BC%98%E7%BC%BA%E7%82%B9)
+##### [22、说说select机制的缺点](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#22%E8%AF%B4%E8%AF%B4select%E6%9C%BA%E5%88%B6%E7%9A%84%E7%BC%BA%E7%82%B9)
+##### [23、说一下epoll的好处](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#23%E8%AF%B4%E4%B8%80%E4%B8%8Bepoll%E7%9A%84%E5%A5%BD%E5%A4%84)
+##### [24、epoll需要在用户态和内核态拷贝数据么？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#24epoll%E9%9C%80%E8%A6%81%E5%9C%A8%E7%94%A8%E6%88%B7%E6%80%81%E5%92%8C%E5%86%85%E6%A0%B8%E6%80%81%E6%8B%B7%E8%B4%9D%E6%95%B0%E6%8D%AE%E4%B9%88)
+##### [25、epoll的实现知道么？在内核当中是什么样的数据结构进行存储，每个操作的时间复杂度是多少？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#25epoll%E7%9A%84%E5%AE%9E%E7%8E%B0%E7%9F%A5%E9%81%93%E4%B9%88%E5%9C%A8%E5%86%85%E6%A0%B8%E5%BD%93%E4%B8%AD%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%BF%9B%E8%A1%8C%E5%AD%98%E5%82%A8%E6%AF%8F%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%9A%84%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%98%AF%E5%A4%9A%E5%B0%91)
 
 <br>
 
