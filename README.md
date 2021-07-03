@@ -123,13 +123,13 @@
 ##### [98、zoj 1535 Lucky Ticket](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201535%20Lucky%20Ticket.md)
 ##### [99、zoj 1496 Best Fit](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201496%20Best%20Fit.md)
 ##### [100、poj 1284 Primitive Roots](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201284%20Primitive%20Roots.md)
-##### 101、zoj 1966 Etaoin Shrdlu
-##### 102、poj 1051 P,MTHBGWB
-##### 103、poj 2201 Cartesian Tree
-##### 104、poj 3715 Blue and Red
-##### 105、poj 3361 Gaussian Prime Factors
-##### 106、poj 3901 The Computer Game
-##### 107、poj 1127 Jack Straws
+##### [101、zoj 1966 Etaoin Shrdlu](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201966%20Etaoin%20Shrdlu.md)
+##### [102、poj 1051 P,MTHBGWB](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201051%20P%2CMTHBGWB.md)
+##### [103、poj 2201 Cartesian Tree](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202201%20Cartesian%20Tree.md)
+##### [104、poj 3715 Blue and Red](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203715%20Blue%20and%20Red.md)
+##### [105、poj 3361 Gaussian Prime Factors](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203361%20Gaussian%20Prime%20Factors.md)
+##### [106、poj 3901 The Computer Game](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203901%20The%20Computer%20Game.md)
+##### [107、poj 1127 Jack Straws](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201127%20Jack%20Straws.md)
 ##### 108、zoj 3798 Abs Problem
 ##### 109、poj 3294 Life Forms
 ##### 110、zoj 2594 Driving Straight
