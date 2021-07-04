@@ -2366,12 +2366,13 @@
 
 
 <h3 id="22">金主爸爸信息</h3> 
+
 ---
 零声教育推出9.9元，校招特训营：内容包含岗位投递渠道，技术方向选择（Java，c++，前端，算法，运维，测试，嵌入式），简历书写规范，面试准备事宜，企业选择，薪资谈判。<br/>
 点击 [秋招春招提前批大厂面试指导 简历梳理 offer选择 技术方向指导课程](https://ke.qq.com/course/3582758?tuin=1bf84273)
 
 另外每天8点还有技术直播分享，分享内容：Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK。<br/>
-扫码联系小姐姐，获得直播链接。
+扫码联系小姐姐，获得直播链接。<br/>
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
 
