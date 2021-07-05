@@ -1,6 +1,6 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新110道）](#1)
-* [剑指offer](#2)
+* [剑指offer（正在更新中）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
@@ -230,7 +230,7 @@
 
 ---
 ##### [1、A + B](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/A%20%2B%20B.md)                          
-##### 2、01背包问题                      
+##### [2、01背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)                     
 ##### 3、完全背包问题                    
 ##### 4、多重背包问题 I                  
 ##### 5、多重背包问题 II                 
