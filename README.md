@@ -231,7 +231,7 @@
 ---
 ##### [1、A + B](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/A%20%2B%20B.md)                          
 ##### [2、01背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)                     
-##### 3、完全背包问题                    
+##### [3、完全背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 ##### 4、多重背包问题 I                  
 ##### 5、多重背包问题 II                 
 ##### 6、多重背包问题 III 
