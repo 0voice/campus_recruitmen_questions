@@ -232,13 +232,13 @@
 ##### [1、A + B](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/A%20%2B%20B.md)                          
 ##### [2、01背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)                     
 ##### [3、完全背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
-##### 4、多重背包问题 I                  
-##### 5、多重背包问题 II                 
-##### 6、多重背包问题 III 
-##### 7、混合背包问题 
-##### 8、二维费用的背包问题              
-##### 9、分组背包问题                    
-##### 10、有依赖的背包问题               
+##### [4、多重背包问题 I](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20I.md)
+##### [5、多重背包问题 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20II.md)
+##### [6、多重背包问题 III](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%20III.md)
+##### [7、混合背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%B7%B7%E5%90%88%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+##### [8、二维费用的背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E7%BB%B4%E8%B4%B9%E7%94%A8%E7%9A%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+##### [9、分组背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%88%86%E7%BB%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+##### [10、有依赖的背包问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%9C%89%E4%BE%9D%E8%B5%96%E7%9A%84%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 ##### 11、背包问题求方案数               
 ##### 12、背包问题求具体方案             
 ##### 13、找出数组中重复的数字           
