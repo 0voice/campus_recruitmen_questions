@@ -2372,7 +2372,7 @@
 点击 [秋招春招提前批大厂面试指导 简历梳理 offer选择 技术方向指导课程](https://ke.qq.com/course/3582758?flowToken=1037490)
 
 另外每天8点还有技术直播分享，分享内容：Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK。<br/>
-扫码联系小姐姐（备注github面试题），获得直播链接。<br/>
+扫码联系小姐姐（备注征战校招），获得直播链接。<br/>
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
 
