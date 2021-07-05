@@ -5,11 +5,11 @@ Jack helps his mentor build a simple distributed storage system. He uses several
 
 This distributed storage system contains a group of backend servers and a master server. The backend servers are different from each other while they store identical data, and all of them are invisible to client. When a client machine needs a file, it sends request to a master server. The master server collects different part of the file from some of backend servers. The strategy of the master is like follows.
 
-Each backend server has its own processing throughput and transmission bandwidth. The master server knows that ith backend server’s throughput is pi (MB/s) and bandwidth is bi (MB/s). As the result, omitted the propagation time, handling size of fi MB data and sending to master machine needs time:
+Each backend server has its own processing throughput and transmission bandwidth. The master server knows that i<sup>th</sup>backend server’s throughput is p<sub>i</sub> (MB/s) and bandwidth is b<sub>i</sub> (MB/s). As the result, omitted the propagation time, handling size of f<sub>i</sub> MB data and sending to master machine needs time:
 
-Total time = Processing time + Transmission time = fi / pi + fi / bi
+Total time = Processing time + Transmission time = f<sub>i</sub> / p<sub>i</sub> + f<sub>i</sub> / b<sub>i<sub>
 
-In addition, handling 1 MB data on ith server costs ci. (Including electricity consumption and maintenance cost, etc.) In order to minimize the total cost, the master server should carefully decide which backends should be used and how much load they should process. At the same time, because of some consistency consideration, every time the master should choose exactly K backend servers to extract file, and each of them should take exactly the same time to finish the job.
+In addition, handling 1 MB data on ith server costs c<sub>i</sub>. (Including electricity consumption and maintenance cost, etc.) In order to minimize the total cost, the master server should carefully decide which backends should be used and how much load they should process. At the same time, because of some consistency consideration, every time the master should choose exactly K backend servers to extract file, and each of them should take exactly the same time to finish the job.
 
 Your task is to write a scheduling program for the master server. Assuming the size of the file is F MB, and the file can be infinitely divided.
 
@@ -17,7 +17,7 @@ Your task is to write a scheduling program for the master server. Assuming the s
 
 The first line contains two integers N and K (K≤ N ≤ 20000), and a real number F. The master should choose exactly K machines among total N backend servers. The F is the size of the file.
 
-The following N lines describe the details of each backend servers. Each line contains three real numbers, pi, bi and ci, representing the processing throughput, bandwidth and unit cost.
+The following N lines describe the details of each backend servers. Each line contains three real numbers, p<sub>i</sub>, b<sub>i</sub> and c<sub>i</sub>, representing the processing throughput, bandwidth and unit cost.
 
 输出描述
 
