@@ -229,7 +229,7 @@
 <h3 id="2">剑指offer</h3> 
 
 ---
-##### 1、A + B                           
+##### [1、A + B](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/A%20%2B%20B.md)                          
 ##### 2、01背包问题                      
 ##### 3、完全背包问题                    
 ##### 4、多重背包问题 I                  
