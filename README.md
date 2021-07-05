@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新130道）正在更新中](#1)
+* [ACM（已更新140道）正在更新中](#1)
 * [剑指offer（已更新10道）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -154,15 +154,15 @@
 ##### [129、poj 2622 Convex hull](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202622%20Convex%20hull.md)
 ##### [130、poj 3632 Optimal Parking](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203632%20Optimal%20Parking.md)
 ##### [131、poj 4003 Bob’s Race](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%204003%20Bob%E2%80%99s%20Race.md)
-##### 132、poj 1619 EKG Sequence
-##### 133、poj 3914 DuLL
-##### 134、poj 3987 Computer Virus on Pl...
-##### 135、zoj 2993 Model Rocket Height
-##### 136、zoj 3151 Dice Compare
-##### 137、zoj 1279 Cowculations
-##### 138、poj 1353 Color Change of Go G...
-##### 139、poj 3782 Equal Sum Partitions
-##### 140、poj 3481 Double Queue
+##### [132、poj 1619 EKG Sequence](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201619%20EKG%20Sequence.md)
+##### [133、poj 3914 DuLL](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203914%20DuLL.md)
+##### [134、poj 3987 Computer Virus on Planet Pandora](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203987%20Computer%20Virus%20on%20Planet%20Pandora.md)
+##### [135、zoj 2993 Model Rocket Height](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202993%20Model%20Rocket%20Height.md)
+##### [136、zoj 3151 Dice Compare](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203151%20Dice%20Compare.md)
+##### [137、zoj 1279 Cowculations](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201279%20Cowculations.md)
+##### [138、poj 1353 Color Change of Go Game Pieces](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201353%20Color%20Change%20of%20Go%20Game%20Pieces.md)
+##### [139、poj 3782 Equal Sum Partitions](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203782%20Equal%20Sum%20Partitions.md)
+##### [140、poj 3481 Double Queue](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203481%20Double%20Queue.md)
 ##### 141、poj 1153 SAFE
 ##### 142、zoj 2499 The Happy Worm
 ##### 143、poj 3763 Tour in Wonder Land
