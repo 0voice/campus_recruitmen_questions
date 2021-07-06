@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新180道）正在更新中](#1)
+* [ACM（已更新190道）正在更新中](#1)
 * [剑指offer（已更新25道）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -202,16 +202,16 @@
 ##### [178、zoj 3663 Polaris of Pandora](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203663%20Polaris%20of%20Pandora.md)
 ##### [179、poj 1780 Code](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201780%20Code.md)
 ##### [180、poj 3266 Cow School](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203266%20Cow%20School.md)
-##### 181、poj 2771 Guardian of Decency
-##### 182、zoj 1501 Knockout Tournament
-##### 183、poj 2827 Auto-Calculation Mac...
-##### 184、poj 3612 Telephone Wire
-##### 185、zoj 1237 Fans and Gems
-##### 186、zoj 2671 Cryptography
-##### 187、zoj 1433 Treasure Hunters
-##### 188、poj 2174 Decoding Task
-##### 189、zoj 3291 Never End
-##### 190、zoj 3049 Diablo II Items
+##### [181、poj 2771 Guardian of Decency](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202771%20Guardian%20of%20Decency.md)
+##### [182、zoj 1501 Knockout Tournament](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201501%20Knockout%20Tournament.md)
+##### [183、poj 2827 Auto-Calculation Machine](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202827%20Auto-Calculation%20Machine.md)
+##### [184、poj 3612 Telephone Wire](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203612%20Telephone%20Wire.md)
+##### [185、zoj 1237 Fans and Gems](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201237%20Fans%20and%20Gems.md)
+##### [186、zoj 2671 Cryptography](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202671%20Cryptography.md)
+##### [187、zoj 1433 Treasure Hunters](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201433%20Treasure%20Hunters.md)
+##### [188、poj 2174 Decoding Task](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202174%20Decoding%20Task.md)
+##### [189、zoj 3291 Never End](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203291%20Never%20End.md)
+##### [190、zoj 3049 Diablo II Items](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203049%20Diablo%20II%20Items.md)
 ##### 191、zoj 1204 Additive equations
 ##### 192、zoj 2886 Look and Say
 ##### 193、poj 2196 Specialized Four-Dig...
