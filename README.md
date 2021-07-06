@@ -182,9 +182,9 @@
 ##### [158、zoj 1812 Stamps](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201812%20Stamps.md)
 ##### [159、poj 2403 Hay Points](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202403%20Hay%20Points.md)
 ##### [160、zoj 1400 Programmer, Rank Thyself](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201400%20Programmer%2C%20Rank%20Thyself.md)
-##### 161、poj 2941 Homogeneous Squares
-##### 162、poj 1149 PIGS
-##### 163、poj 1240 Pre-Post-erous!
+##### [161、poj 2941 Homogeneous Squares](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202941%20Homogeneous%20Squares.md)
+##### [162、poj 1149 PIGS](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201149%20PIGS.md)
+##### [163、poj 1240 Pre-Post-erous!](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201240%20Pre-Post-erous!.md)
 ##### 164、poj 3349 Snowflake Snow Snowf...
 ##### 165、poj 1459 Power Network
 ##### 166、poj 2978 Colored stones
