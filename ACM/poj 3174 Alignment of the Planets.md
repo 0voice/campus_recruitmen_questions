@@ -4,7 +4,7 @@ Bessie looks up and notices that she is exactly lined up with Sara and Julie. Sh
 
 Given the locations of all the cows (no two cows occupy the same location), figure out all sets of three cows are exactly collinear. Keep track of the sets, sorting the cows in each set by their ID number, lowest first. Then sort the sets by the three ID numbers (lowest first), breaking ties by examining the second and third ID numbers.
 
-输入描述?<br>
+输入描述<br>
 Line 1: A single integer, N
 
 Lines 2..N+1: Line i+1 describes cow i's location with two space-separated integers that are her x and y coordinates
