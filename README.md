@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新160道）正在更新中](#1)
+* [ACM（已更新170道）正在更新中](#1)
 * [剑指offer（已更新25道）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -185,13 +185,13 @@
 ##### [161、poj 2941 Homogeneous Squares](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202941%20Homogeneous%20Squares.md)
 ##### [162、poj 1149 PIGS](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201149%20PIGS.md)
 ##### [163、poj 1240 Pre-Post-erous!](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201240%20Pre-Post-erous!.md)
-##### 164、poj 3349 Snowflake Snow Snowf...
-##### 165、poj 1459 Power Network
-##### 166、poj 2978 Colored stones
-##### 167、poj 3219 Binomial Coefficients
-##### 168、zoj 2191 Series Determination
-##### 169、zoj 2913 Bus Pass
-##### 170、poj 3260 The Fewest Coins
+##### [164、poj 3349 Snowflake Snow Snowflakes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203349%20Snowflake%20Snow%20Snowflakes.md)
+##### [165、poj 1459 Power Network](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201459%20Power%20Network.md)
+##### [166、poj 2978 Colored stones](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202978%20Colored%20stones.md)
+##### [167、poj 3219 Binomial Coefficients](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203219%20Binomial%20Coefficients.md)
+##### [168、zoj 2191 Series Determination](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202191%20Series%20Determination.md)
+##### [169、zoj 2913 Bus Pass](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202913%20Bus%20Pass.md)
+##### [170、poj 3260 The Fewest Coins](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203260%20The%20Fewest%20Coins.md)
 ##### 171、poj 3593 Sea Base Exploration
 ##### 172、poj 3131 Cubic Eight-Puzzle
 ##### 173、zoj 2634 Collecting Stones
