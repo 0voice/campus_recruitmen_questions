@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新190道）正在更新中](#1)
+* [ACM（已更新200道）](#1)
 * [剑指offer（已更新25道）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -212,16 +212,16 @@
 ##### [188、poj 2174 Decoding Task](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202174%20Decoding%20Task.md)
 ##### [189、zoj 3291 Never End](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203291%20Never%20End.md)
 ##### [190、zoj 3049 Diablo II Items](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203049%20Diablo%20II%20Items.md)
-##### 191、zoj 1204 Additive equations
-##### 192、zoj 2886 Look and Say
-##### 193、poj 2196 Specialized Four-Dig...
-##### 194、poj 2900 Griddy Hobby
-##### 195、poj 1663 Number Steps
-##### 196、zoj 1497 Ball Toss
-##### 197、zoj 1404 Oil Pipeline
-##### 198、zoj 3805 Machine
-##### 199、zoj 3811 Untrusted Patrol
-##### 200、poj 1184 聪明的打字员
+##### [191、zoj 1204 Additive equations](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201204%20Additive%20equations.md)
+##### [192、zoj 2886 Look and Say](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%202886%20Look%20and%20Say.md)
+##### [193、poj 2196 Specialized Four-Digit Numbers](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202196%20Specialized%20Four-Digit%20Numbers.md)
+##### [194、poj 2900 Griddy Hobby](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202900%20Griddy%20Hobby.md)
+##### [195、poj 1663 Number Steps](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201663%20Number%20Steps.md)
+##### [196、zoj 1497 Ball Toss](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201497%20Ball%20Toss.md)
+##### [197、zoj 1404 Oil Pipeline](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201404%20Oil%20Pipeline.md)
+##### [198、zoj 3805 Machine](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203805%20Machine.md)
+##### [199、zoj 3811 Untrusted Patrol](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203811%20Untrusted%20Patrol.md)
+##### [200、poj 1184 聪明的打字员](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201184%20%E8%81%AA%E6%98%8E%E7%9A%84%E6%89%93%E5%AD%97%E5%91%98.md)
 
 <br>
 
