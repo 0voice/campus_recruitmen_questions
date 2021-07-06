@@ -1,5 +1,5 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新150道）](#1)
+* [ACM（已更新160道）正在更新中](#1)
 * [剑指offer（已更新25道）](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
@@ -172,16 +172,16 @@
 ##### [148、poj 3579 Median](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203579%20Median.md)
 ##### [149、poj 2430 Lazy Cows](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202430%20Lazy%20Cows.md)
 ##### [150、zoj 1255 The Path](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201255%20The%20Path.md)
-##### 151、zoj 3595 Two Sequences
-##### 152、zoj 3016 Cut
-##### 153、poj 3174 Alignment of the Pla...
-##### 154、zoj 3813 Alternating Sum
-##### 155、poj 1690 (Your)((Term)((Proje...
-##### 156、poj 1650 Integer Approximation
-##### 157、zoj 1472 Overlapping Shapes
-##### 158、zoj 1812 Stamps
-##### 159、poj 2403 Hay Points
-##### 160、zoj 1400 Programmer, Rank Thy...
+##### [151、zoj 3595 Two Sequences](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203595%20Two%20Sequences.md)
+##### [152、zoj 3016 Cut](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203016%20Cut.md)
+##### [153、poj 3174 Alignment of the Planets](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%203174%20Alignment%20of%20the%20Planets.md)
+##### [154、zoj 3813 Alternating Sum](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203813%20Alternating%20Sum.md)
+##### [155、poj 1690 (Your)((Term)((Project)))](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201690%20Your-Term-Project.md)
+##### [156、poj 1650 Integer Approximation](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%201650%20Integer%20Approximation.md)
+##### [157、zoj 1472 Overlapping Shapes](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201472%20Overlapping%20Shapes.md)
+##### [158、zoj 1812 Stamps](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201812%20Stamps.md)
+##### [159、poj 2403 Hay Points](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/poj%202403%20Hay%20Points.md)
+##### [160、zoj 1400 Programmer, Rank Thyself](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%201400%20Programmer%2C%20Rank%20Thyself.md)
 ##### 161、poj 2941 Homogeneous Squares
 ##### 162、poj 1149 PIGS
 ##### 163、poj 1240 Pre-Post-erous!
