@@ -1,6 +1,6 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
-* [剑指offer（已更新25道）](#2)
+* [剑指offer（已更新30道）正在更新中](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
@@ -253,11 +253,11 @@
 ##### [23、矩阵中的路径](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84.md)
 ##### [24、机器人的运动范围](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.md)
 ##### [25、剪绳子](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%89%AA%E7%BB%B3%E5%AD%90.md)
-##### 26、二进制中1的个数                
-##### 27、数值的整数次方                 
-##### 28、在O(1)时间删除链表结点         
-##### 29、删除链表中重复的节点           
-##### 30、正则表达式匹配                 
+##### [26、二进制中1的个数](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)               
+##### [27、数值的整数次方](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md)
+##### [28、在O(1)时间删除链表结点](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%9C%A8O(1)%E6%97%B6%E9%97%B4%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%BB%93%E7%82%B9.md)
+##### [29、删除链表中重复的节点](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E8%8A%82%E7%82%B9.md)
+##### [30、正则表达式匹配](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
 ##### 31、表示数值的字符串               
 ##### 32、调整数组顺序使奇数位于偶数前面 
 ##### 33、链表中倒数第k个节点            
