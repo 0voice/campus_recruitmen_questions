@@ -1,6 +1,6 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
-* [剑指offer（已更新120道）正在更新中](#2)
+* [剑指offer（已更新130道）正在更新中](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
@@ -356,8 +356,8 @@
 ##### [126、最大的和](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E6%9C%80%E5%A4%A7%E7%9A%84%E5%92%8C.md)
 ##### [127、任务](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E4%BB%BB%E5%8A%A1.md)
 ##### [128、编辑器](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%BC%96%E8%BE%91%E5%99%A8.md)
-##### 129、火车进栈              
-##### 130、火车进出栈问题        
+##### [129、火车进栈](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%81%AB%E8%BD%A6%E8%BF%9B%E6%A0%88.md)
+##### [130、火车进出栈问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%81%AB%E8%BD%A6%E8%BF%9B%E5%87%BA%E6%A0%88%E9%97%AE%E9%A2%98.md)
 ##### 131、直方图中最大的矩形    
 ##### 132、小组队列              
 ##### 133、蚯蚓                  
