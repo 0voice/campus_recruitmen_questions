@@ -1,6 +1,6 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
-* [剑指offer（已更新110道）正在更新中](#2)
+* [剑指offer（已更新120道）正在更新中](#2)
 * [leetcode（已更新5道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
@@ -16,7 +16,7 @@
 * [图](#17)
 * [排序](#18)
 * [字符串](#19)
-* [顺利通过校招](#22)
+* [金主福利](#22)
 
 
 <h3 id="1">ACM</h3> 
@@ -338,16 +338,16 @@
 ##### [108、奇数码问题](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%A5%87%E6%95%B0%E7%A0%81%E9%97%AE%E9%A2%98.md)
 ##### [109、天才ACM](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%A4%A9%E6%89%8DACM.md)
 ##### [110、防晒](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E9%98%B2%E6%99%92.md)
-##### 111、畜栏预定              
-##### 112、雷达设备              
-##### 113、特殊排序              
-##### 114、国王游戏              
-##### 115、给树染色              
-##### 116、飞行员兄弟            
-##### 117、占卜DIY               
-##### 118、分形                  
-##### 119、袭击                  
-##### 120、防线                  
+##### [111、畜栏预定](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%95%9C%E6%A0%8F%E9%A2%84%E5%AE%9A.md)
+##### [112、雷达设备](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E9%9B%B7%E8%BE%BE%E8%AE%BE%E5%A4%87%20.md)
+##### [113、特殊排序](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%89%B9%E6%AE%8A%E6%8E%92%E5%BA%8F.md)
+##### [114、国王游戏](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%9B%BD%E7%8E%8B%E6%B8%B8%E6%88%8F.md)
+##### [115、给树染色](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E7%BB%99%E6%A0%91%E6%9F%93%E8%89%B2.md)
+##### [116、飞行员兄弟](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E9%A3%9E%E8%A1%8C%E5%91%98%E5%85%84%E5%BC%9F.md)
+##### [117、占卜DIY](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%8D%A0%E5%8D%9CDIY%20.md)
+##### [118、分形](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E5%88%86%E5%BD%A2.md)
+##### [119、袭击](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E8%A2%AD%E5%87%BB.md)
+##### [120、防线](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/%E9%98%B2%E7%BA%BF.md)
 ##### 121、赶牛入圈              
 ##### 122、糖果传递              
 ##### 123、士兵                  
@@ -2353,11 +2353,37 @@
 <h3 id="22">金主爸爸信息</h3> 
 
 ---
-零声教育推出9.9元，校招特训营：内容包含岗位投递渠道，技术方向选择（Java，c++，前端，算法，运维，测试，嵌入式），简历书写规范，面试准备事宜，企业选择，薪资谈判。<br/>
-点击 [秋招春招提前批大厂面试指导 简历梳理 offer选择 技术方向指导课程](https://ke.qq.com/course/3582758?flowToken=1037490)
+#### 零声教育，专注于c/c++Linux后台服务器开发架构技术提升。<br>
+[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1033508)
 
-另外每天8点还有技术直播分享，分享内容：Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK。<br/>
-扫码联系小姐姐（备注征战校招），获得直播链接。<br/>
+福利资料获取：
+#### 1、十份大厂面经视频分享
+
+  ① 秋招如何斩获字节&快手offer<br>
+  
+  ② 小厂到腾讯60Woffer的逆袭<br>
+  
+  ③ 如何一次跳槽涨薪12W<br>
+  
+  ④ 清华毕业生跨专业如何拿到美团&字节offer<br>
+  
+  ⑤ 普通二本应届生的B站之路<br>
+  
+  ⑥ 非科班毕业如何进京东，拿到28W岗位offer<br>
+  
+  ⑦ 外包裸辞6个月，成功入职金山实现薪资翻倍<br>
+  
+  ⑧ 三年社招如何能够拿到35K&360offer<br>
+  
+  ⑨ 毕业半年，离职挑战华为offer<br>
+  
+  ⑩ 30天突击学习，拿下高薪offer涨薪10W
+  
+#### 2、对标腾讯T9职级技术要求的后台开发学习图谱
+
+![大纲部分图.png](https://img11.360buyimg.com/ddimg/jfs/t1/37229/14/15620/149708/60e6a78eE5241eec1/d0f0c9d9aa1e4d99.png)
+
+#### 扫码联系橙子，免费领取干货资料【备注：GitHub面试题】<br>
 ![barcode](https://www.0voice.com/uiwebsite/img/barcode/cz.jpg)
 
 
