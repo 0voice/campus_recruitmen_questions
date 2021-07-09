@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * :trophy: [ACM（已更新200道）](#1)
 * :triangular_flag_on_post: [剑指offer（已更新150道）](#2)
-* :medal_military: [leetcode（已更新70道）](#3)
+* :medal_military: [leetcode（已更新100道）](#3)
 * :dart: [mysql（已更新100道）](#4)
 * :crystal_ball: [redis（已更新50道）](#5)
 * :airplane: [nginx（已更新32道）](#6)
@@ -1304,36 +1304,36 @@
 ##### [68、（0068）文本左右对齐](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
 ##### [69、（0069）x 的平方根](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
 ##### [70、（0070）爬楼梯](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
-##### 71、（0071）simplify path
-##### 72、（0072）edit distance
-##### 73、（0073）矩阵置零
-##### 74、（0074）search a 2d matrix
-##### 75、（0075）颜色分类 
-##### 76、（0076）minimum window substring
-##### 77、（0077）combinations
-##### 78、（0078）子集
-##### 79、（0079）单词搜索
-##### 80、（0080）删除排序数组中的重复项 II
-##### 81、（0081）search in rotated sorted array ii
-##### 82、（0082）remove duplicates from sorted list ii
-##### 83、（0083）remove duplicates from sorted list
-##### 84、（0084）柱状图中最大的矩形
-##### 85、（0085）最大矩形
-##### 86、（0086）分隔链表
-##### 87、（0087）扰乱字符串
-##### 88、（0088）合并两个有序数组
-##### 89、（0089）gray code
-##### 90、（0090）子集 II
-##### 91、（0091）解码方法
-##### 92、（0092）反转链表 II
-##### 93、（0093）restore ip addresses
-##### 94、（0094）二叉树的中序遍历 
-##### 95、（0095）不同的二叉搜索树 II
-##### 96、（0096）不同的二叉搜索树
-##### 97、（0097）interleaving string
-##### 98、（0098）验证二叉搜索树
-##### 99、（0099）recover binary search tree
-##### 100、（0100）same tree
+##### [71、（0071）简化路径](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.md)
+##### [72、（0072）编辑距离](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
+##### [73、（0073）矩阵置零](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%9F%A9%E9%98%B5%E7%BD%AE%E9%9B%B6.md)
+##### [74、（0074）搜索二维矩阵](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.md)
+##### [75、（0075）颜色分类](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
+##### [76、（0076）最小覆盖子串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md)
+##### [77、（0077）组合](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BB%84%E5%90%88.md)
+##### [78、（0078）子集](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%90%E9%9B%86.md)
+##### [79、（0079）单词搜索](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
+##### [80、（0080）删除排序数组中的重复项 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md)
+##### [81、（0081）搜索旋转排序数组 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.md)
+#####[ 82、（0082）删除排序链表中的重复元素 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
+##### [83、（0083）删除排序链表中的重复元素](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
+##### [84、（0084）柱状图中最大的矩形](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
+##### [85、（0085）最大矩形](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)
+##### [86、（0086）分隔链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.md)
+##### [87、（0087）扰乱字符串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%89%B0%E4%B9%B1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+##### [88、（0088）合并两个有序数组](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+##### [89、（0089）格雷编码](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.md)
+##### [90、（0090）子集 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%90%E9%9B%86%20II.md)
+##### [91、（0091）解码方法](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%A7%A3%E7%A0%81%E6%96%B9%E6%B3%95.md)
+##### [92、（0092）反转链表 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II.md)
+##### [93、（0093）复原 IP 地址](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%A4%8D%E5%8E%9F%20IP%20%E5%9C%B0%E5%9D%80.md)
+##### [94、（0094）二叉树的中序遍历](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md) 
+##### [95、（0095）不同的二叉搜索树 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%20II.md)
+##### [96、（0096）不同的二叉搜索树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+##### [97、（0097）交错字符串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%BA%A4%E9%94%99%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+##### [98、（0098）验证二叉搜索树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+##### [99、（0099）恢复二叉搜索树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%81%A2%E5%A4%8D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+##### [100、（0100）相同得树](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.md)
 ##### 101、（0101）对称二叉树
 ##### 102、（0102）二叉树的层序遍历
 ##### 103、（0103）二叉树的锯齿形层次遍历
