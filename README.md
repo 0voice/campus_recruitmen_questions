@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
 * [剑指offer（已更新150道）](#2)
-* [leetcode（已更新50道）](#3)
+* [leetcode（已更新60道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
 * [nginx（已更新32道）](#6)
@@ -1284,17 +1284,17 @@
 ##### [48、（0048）旋转图像](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 ##### [49、（0049）字母异位词分组](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
 ##### [50、（0050）Pow(x, n)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/Pow(x%2C%20n).md)
-##### 51、（0051）n queens
-##### 52、（0052）N 皇后 II
-##### 53、（0053）最大子序和
-##### 54、（0054）spiral matrix
-##### 55、（0055）跳跃游戏
-##### 56、（0056）合并区间
-##### 57、（0057）插入区间
-##### 58、（0058）length of last word
-##### 59、（0059）spiral matrix ii
-##### 60、（0060）第 k 个排列 
-##### 61、（0061）旋转链表 91
+##### [51、（0051）N 皇后](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/N%20%E7%9A%87%E5%90%8E.md)
+##### [52、（0052）N 皇后 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/N%20%E7%9A%87%E5%90%8E%20II.md)
+##### [53、（0053）最大子序和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
+##### [54、（0054）spiral matrix(螺旋矩阵)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md)
+##### [55、（0055）跳跃游戏](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md)
+##### [56、（0056）合并区间](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md)
+##### [57、（0057）插入区间](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8F%92%E5%85%A5%E5%8C%BA%E9%97%B4.md)
+##### [58、（0058）length of last word(最后一个单词的长度)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.md)
+##### [59、（0059）螺旋矩阵 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II.md)
+##### [60、（0060）第 k 个排列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8E%92%E5%88%97%E5%BA%8F%E5%88%97.md)
+##### 61、（0061）旋转链表 91
 ##### 62、（0062）不同路径
 ##### 63、（0063）unique paths ii
 ##### 64、（0064）minumum path sum
