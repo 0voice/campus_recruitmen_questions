@@ -1,15 +1,15 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
-* [ACM（已更新200道）](#1)
-* [剑指offer（已更新150道）](#2)
-* [leetcode（已更新60道）](#3)
-* [mysql（已更新100道）](#4)
-* [redis（已更新50道）](#5)
-* [nginx（已更新32道）](#6)
-* [语法语言（已更新87道）](#7)
-* [网络原理（已更新36道）](#8)
-* [网络编程（已更新25道）](#9)
-* [操作系统（已更新18道）](#10)
-* [编译原理（已更新5道）](#11)
+* :trophy: [ACM（已更新200道）](#1)
+* :triangular_flag_on_post: [剑指offer（已更新150道）](#2)
+* :medal_military: [leetcode（已更新60道）](#3)
+* :dart: [mysql（已更新100道）](#4)
+* :crystal_ball: [redis（已更新50道）](#5)
+* :airplane: [nginx（已更新32道）](#6)
+* :loudspeaker: [语法语言（已更新87道）](#7)
+* :hourglass: [网络原理（已更新36道）](#8)
+* :sparkles: [网络编程（已更新25道）](#9)
+* :desktop_computer: [操作系统（已更新18道）](#10)
+* :floppy_disk: [编译原理（已更新5道）](#11)
 * [并发](#14)
 * [堆与栈](#15)
 * [树](#16)
@@ -19,7 +19,7 @@
 * [作者福利](#22)
 
 
-<h3 id="1">ACM</h3> 
+<h3 id="1">:trophy: ACM</h3> 
 
 ---
 ##### [1、zoj 3235 Prototype（原型）](https://github.com/0voice/campus_recruitmen_questions/blob/main/ACM/zoj%203235%20Prototype.md)
@@ -225,7 +225,7 @@
 
 <br>
 
-<h3 id="2">剑指offer</h3> 
+<h3 id="2">:triangular_flag_on_post: 剑指offer</h3> 
 
 ---
 ##### [1、A + B](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E5%89%91%E6%8C%87offer/A%20%2B%20B.md)                          
@@ -1231,7 +1231,7 @@
 
 <br>
 
-<h3 id="3">leetcode</h3> 
+<h3 id="3">:medal_military: leetcode</h3> 
 
 ---
 ##### [1、（0001）两数之和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
@@ -1601,7 +1601,7 @@
 
 <br>
 
-<h3 id="4">mysql</h3> 
+<h3 id="4">:dart: mysql</h3> 
 
 ---
 ##### [1. MySQL 索引使用有哪些注意事项呢？](https://github.com/0voice/campus_recruitmen_questions/blob/main/mysql/1~100mysql%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98.md#1-mysql-%E7%B4%A2%E5%BC%95%E4%BD%BF%E7%94%A8%E6%9C%89%E5%93%AA%E4%BA%9B%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E5%91%A2)
@@ -1707,7 +1707,7 @@
 
 <br>
 
-<h3 id="5">redis</h3> 
+<h3 id="5">:crystal_ball:	redis</h3> 
 
 ---
 ##### [1、什么是 Redis?简述它的优缺点?](https://github.com/0voice/campus_recruitmen_questions/blob/main/redis/1~50Redis%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF-redis)
@@ -1763,7 +1763,7 @@
 
 <br>
 
-<h3 id="6">nginx</h3> 
+<h3 id="6">:airplane: nginx</h3> 
 
 ---
 ##### [1、请解释一下什么是Nginx?](https://github.com/0voice/campus_recruitmen_questions/blob/main/nginx/1~32%20Nginx%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E8%AF%B7%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E4%BB%80%E4%B9%88%E6%98%AFnginx)
@@ -1801,7 +1801,7 @@
 
 <br>
 
-<h3 id="7">语言语法</h3> 
+<h3 id="7">:loudspeaker: 语言语法</h3> 
 
 ---
 ##### [1、new、delete、malloc、free关系](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95/1~103%20%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E9%9D%A2%E8%AF%95%E9%A2%98.md#1newdeletemallocfree%E5%85%B3%E7%B3%BB)
@@ -1910,7 +1910,7 @@
 
 <br>
 
-<h3 id="8">网络原理</h3> 
+<h3 id="8">:hourglass: 网络原理</h3> 
 
 ---
 ##### [1.如何理解 URI？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/1~36%20%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3-uri)
@@ -1952,7 +1952,7 @@
 
 <br>
 
-<h3 id="9">网络编程</h3> 
+<h3 id="9">:sparkles: 网络编程</h3> 
 
 ---
 ##### [1、什么是IO多路复用](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/1~25%20%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AFio%E5%A4%9A%E8%B7%AF%E5%A4%8D%E7%94%A8)
@@ -1983,7 +1983,7 @@
 
 <br>
 
-<h3 id="10">操作系统</h3> 
+<h3 id="10">:desktop_computer: 操作系统</h3> 
 
 ---
 ##### [1、什么是操作系统？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/1~18%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
@@ -2019,7 +2019,7 @@
 
 <br>
 
-<h3 id="11">编译原理</h3> 
+<h3 id="11">:floppy_disk: 编译原理</h3> 
 
 ---
 ##### [1、什么是语法分析？](https://github.com/0voice/campus_recruitmen_questions/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/1~9%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E9%9D%A2%E8%AF%95%E9%A2%98.md#1%E4%BB%80%E4%B9%88%E6%98%AF%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90)
