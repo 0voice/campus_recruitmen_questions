@@ -1315,7 +1315,7 @@
 ##### [79、（0079）单词搜索](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.md)
 ##### [80、（0080）删除排序数组中的重复项 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II.md)
 ##### [81、（0081）搜索旋转排序数组 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.md)
-#####[ 82、（0082）删除排序链表中的重复元素 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
+##### [82、（0082）删除排序链表中的重复元素 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
 ##### [83、（0083）删除排序链表中的重复元素](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
 ##### [84、（0084）柱状图中最大的矩形](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.md)
 ##### [85、（0085）最大矩形](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)
