@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * :trophy: [ACM（已更新200道）](#1)
 * :triangular_flag_on_post: [剑指offer（已更新150道）](#2)
-* :medal_military: [leetcode（已更新60道）](#3)
+* :medal_military: [leetcode（已更新70道）](#3)
 * :dart: [mysql（已更新100道）](#4)
 * :crystal_ball: [redis（已更新50道）](#5)
 * :airplane: [nginx（已更新32道）](#6)
@@ -1294,16 +1294,16 @@
 ##### [58、（0058）length of last word(最后一个单词的长度)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.md)
 ##### [59、（0059）螺旋矩阵 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II.md)
 ##### [60、（0060）第 k 个排列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8E%92%E5%88%97%E5%BA%8F%E5%88%97.md)
-##### 61、（0061）旋转链表 91
-##### 62、（0062）不同路径
-##### 63、（0063）unique paths ii
-##### 64、（0064）minumum path sum
-##### 65、（0065）有效数字
-##### 66、（0066）加一 91
-##### 67、（0067）add binary
-##### 68、（0068）text justification
-##### 69、（0069）sqrt
-##### 70、（0070）climbing stairs
+##### [61、（0061）旋转链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+##### [62、（0062）不同路径](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
+##### [63、（0063）不同路径 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.md)
+##### [64、（0064）最小路径和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
+##### [65、（0065）有效数字](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.md)
+##### [66、（0066）加一](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8A%A0%E4%B8%80.md)
+##### [67、（0067）二进制求和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.md)
+##### [68、（0068）文本左右对齐](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%96%87%E6%9C%AC%E5%B7%A6%E5%8F%B3%E5%AF%B9%E9%BD%90.md)
+##### [69、（0069）x 的平方根](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+##### [70、（0070）爬楼梯](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
 ##### 71、（0071）simplify path
 ##### 72、（0072）edit distance
 ##### 73、（0073）矩阵置零
