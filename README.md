@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
 * [剑指offer（已更新150道）](#2)
-* [leetcode（已更新20道）](#3)
+* [leetcode（已更新50道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
 * [nginx（已更新32道）](#6)
@@ -1254,36 +1254,36 @@
 ##### [18、（0018）four sum](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 ##### [19、（0019）删除链表的倒数第 N 个节点](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 ##### [20、（0020）有效的括号](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
-##### 21、（0021）合并两个有序链表
-##### 22、（0022）括号生成
-##### 23、（0023）合并 K 个升序链表
-##### 24、（0024）两两交换链表中的节点
-##### 25、（0025）K 个一组翻转链表 
-##### 26、（0026）删除排序数组中的重复项
-##### 27、（0027）remove element
-##### 28、（0028）implement strstr
-##### 29、（0029）两数相除
-##### 30、（0030）串联所有单词的子串
-##### 31、（0031）下一个排列
-##### 32、（0032）最长有效括号
-##### 33、（0033）搜索旋转排序数组
-##### 34、（0034）search for a range
-##### 35、（0035）search insert position
-##### 36、（0036）valid sudoku
-##### 37、（0037）sudoku solver
-##### 38、（0038）count and say
-##### 39、（0039）组合总和
-##### 40、（0040）组合总和 II
-##### 41、（0041）first missing positive
-##### 42、（0042）接雨水
-##### 43、（0043）multiply strings
-##### 44、（0044）wildcard matching
-##### 45、（0045）jump game ii
-##### 46、（0046）全排列
-##### 47、（0047）全排列 II
-##### 48、（0048）旋转图像
-##### 49、（0049）字母异位词分组
-##### 50、（0050）Pow(x, n) 
+##### [21、（0021）合并两个有序链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+##### [22、（0022）括号生成](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md)
+##### [23、（0023）合并 K 个升序链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+##### [24、（0024）两两交换链表中的节点](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
+##### [25、（0025）K 个一组翻转链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/K%20%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+##### [26、（0026）删除排序数组中的重复项](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+##### [27、（0027）remove element(移除元素)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
+##### [28、（0028）implement strstr(实现 strStr())](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AE%9E%E7%8E%B0%20strStr().md)
+##### [29、（0029）两数相除](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.md)
+##### [30、（0030）串联所有单词的子串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%B2%E8%81%94%E6%89%80%E6%9C%89%E5%8D%95%E8%AF%8D%E7%9A%84%E5%AD%90%E4%B8%B2.md)
+##### [31、（0031）下一个排列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.md)
+##### [32、（0032）最长有效括号](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.md)
+##### [33、（0033）搜索旋转排序数组](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
+##### [34、（0034）在排序数组中查找元素的第一个和最后一个位置](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
+##### [35、（0035）search insert position(搜索插入位置)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md)
+##### [36、（0036）valid sudoku(有效的数独)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.md)
+##### [37、（0037）sudoku solver(解数独)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%A7%A3%E6%95%B0%E7%8B%AC.md)
+##### [38、（0038）外观数列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)
+##### [39、（0039）组合总和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md)
+##### [40、（0040）组合总和 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.md)
+##### [41、（0041）first missing positive(缺失的第一个正数)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.md)
+##### [42、（0042）接雨水](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8E%A5%E9%9B%A8%E6%B0%B4.md)
+##### [43、（0043）multiply strings(字符串相乘)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.md)
+##### [44、（0044）wildcard matching(通配符匹配)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D.md)
+##### [45、（0045）jump game ii(跳跃游戏 II)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md)
+##### [46、（0046）全排列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%85%A8%E6%8E%92%E5%88%97.md)
+##### [47、（0047）全排列 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%85%A8%E6%8E%92%E5%88%97%20II.md)
+##### [48、（0048）旋转图像](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
+##### [49、（0049）字母异位词分组](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.md)
+##### [50、（0050）Pow(x, n)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/Pow(x%2C%20n).md)
 ##### 51、（0051）n queens
 ##### 52、（0052）N 皇后 II
 ##### 53、（0053）最大子序和
