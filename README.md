@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * [ACM（已更新200道）](#1)
 * [剑指offer（已更新150道）](#2)
-* [leetcode（已更新5道）](#3)
+* [leetcode（已更新20道）](#3)
 * [mysql（已更新100道）](#4)
 * [redis（已更新50道）](#5)
 * [nginx（已更新32道）](#6)
@@ -1238,22 +1238,22 @@
 ##### [2、（0002）两数相加](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md)
 ##### [3、（0003）无重复字符的最长子串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 ##### [4、（0004）寻找两个正序数组的中位数](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0%C2%A0.md)
-##### 5、（0005）最长回文子串
-##### 6、（0006）zigzag conversion
-##### 7、（0007）reverse integer
-##### 8、（0008）atoi
-##### 9、（0009）palindrome number
-##### 10、（0010）regular expression matching
-##### 11、（0011）盛最多水的容器
-##### 12、（0012）roman numeral
-##### 13、（0013）roman to integer
-##### 14、（0014）longest common prefix
-##### 15、（0015）三数之和
-##### 16、（0016）three sum closest
-##### 17、（0017）电话号码的字母组合
-##### 18、（0018）four sum
-##### 19、（0019）删除链表的倒数第 N 个节点
-##### 20、（0020）有效的括号
+##### [5、（0005）最长回文子串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
+##### [6、（0006）zigzag conversion(Z 字形变换)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.md)
+##### [7、（0007）reverse integer(整数反转)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+##### [8、（0008）atoi(字符串转换整数)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0.md)
+##### [9、（0009）palindrome number(回文数)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%9B%9E%E6%96%87%E6%95%B0.md)
+##### [10、（0010）regular expression matching(正则表达式匹配)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
+##### [11、（0011）盛最多水的容器](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
+##### [12、（0012）roman numeral(整数转罗马数字)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.md)
+##### [13、（0013）roman to integer(罗马数字转整数)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.md)
+##### [14、（0014）longest common prefix(最长公共前缀)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md)
+##### [15、（0015）三数之和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+##### [16、（0016）three sum closest(最接近的三数之和)](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+##### [17、（0017）电话号码的字母组合](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md)
+##### [18、（0018）four sum](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+##### [19、（0019）删除链表的倒数第 N 个节点](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
+##### [20、（0020）有效的括号](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
 ##### 21、（0021）合并两个有序链表
 ##### 22、（0022）括号生成
 ##### 23、（0023）合并 K 个升序链表
@@ -2357,27 +2357,27 @@
 [分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1033508)
 
 福利资料获取：
-#### 1、十份大厂面经视频分享，两份已给出视频，更多扫二维码获取。
+#### 1、十份大厂面经视频分享
 
-  ① 秋招，以字节&快手offer上岸，体验什么是快乐星球 <br>
+  ① 秋招如何斩获字节&快手offer<br>
   
-  ② 阿里云offer在手，就是爽 <br>
+  ② 小厂到腾讯60Woffer的逆袭<br>
   
-  ③ 清华毕业生也有就业压力，本硕（化学）转行后台开发的困惑 <br>
+  ③ 如何一次跳槽涨薪12W<br>
   
-  ④ [非科班（本科：地质检测，研究生：土木工程）转行软件开发的那些故事] (https://www.zhihu.com/zvideo/1276884321971068928) <br>
+  ④ 清华毕业生跨专业如何拿到美团&字节offer<br>
   
-  ⑤ [普通二本应届生，校招B站，深信服offer在手] (https://www.zhihu.com/zvideo/1309872113973260288) <br>
+  ⑤ 普通二本应届生的B站之路<br>
   
-  ⑥ 国企事业单位是否需要跳槽去腾讯？  <br>
+  ⑥ 非科班毕业如何进京东，拿到28W岗位offer<br>
   
-  ⑦ 外包企业四年，如何破局走出外包坑  <br>
+  ⑦ 外包裸辞6个月，成功入职金山实现薪资翻倍<br>
   
-  ⑧ 这才是双非院校，毕业三年，该有的样子  <br>
+  ⑧ 三年社招如何能够拿到35K&360offer<br>
   
-  ⑨ 毕业半年，离职挑战华为offer  <br>
+  ⑨ 毕业半年，离职挑战华为offer<br>
   
-  ⑩ 工作十年，程序员的迷茫
+  ⑩ 30天突击学习，拿下高薪offer涨薪10W
   
 #### 2、对标腾讯T9职级技术要求的后台开发学习图谱
 
