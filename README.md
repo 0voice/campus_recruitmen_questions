@@ -1,7 +1,7 @@
 # 2021年最新整理，5000道校招常用面试题，包含leetcode，校招笔试题，面试题，算法题，语法题。每天(周日休息)持续更新中。。。
 * :trophy: [ACM（已更新200道）](#1)
 * :triangular_flag_on_post: [剑指offer（已更新150道）](#2)
-* :medal_military: [leetcode（已更新130道）](#3)
+* :medal_military: [leetcode（已更新150道）](#3)
 * :dart: [mysql（已更新100道）](#4)
 * :crystal_ball: [redis（已更新50道）](#5)
 * :airplane: [nginx（已更新32道）](#6)
@@ -1364,26 +1364,26 @@
 ##### [128、（0128）最长连续序列](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E5%BA%8F%E5%88%97.md)
 ##### [129、（0129）求根到叶子节点数字之和](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%B1%82%E6%A0%B9%E8%8A%82%E7%82%B9%E5%88%B0%E5%8F%B6%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md)
 ##### [130、（0130）被围绕的区域](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E8%A2%AB%E5%9B%B4%E7%BB%95%E7%9A%84%E5%8C%BA%E5%9F%9F.md)
-##### 131、（0131）分割回文串
-##### 132、（0132）分割回文串 II 
-##### 133、（0133）clone graph
-##### 134、（0134）gas station
-##### 135、（0135）candy
-##### 136、（0136）只出现一次的数字
-##### 137、（0137）single number ii
-##### 138、（0138）copy list with random pointer
-##### 139、（0139）单词拆分
-##### 140、（0140）单词拆分 II
-##### 141、（0141）linked list cycle
-##### 142、（0142）linked list cycle ii
-##### 143、（0143）reorder list
-##### 144、（0144）二叉树的前序遍历
-##### 145、（0145）二叉树的后序遍历
-##### 146、（0146）LRU 缓存机制
-##### 147、（0147）对链表进行插入排序
-##### 148、（0148）ort list
-##### 149、（0149）max points on a line
-##### 150、（0150）逆波兰表达式求值
+##### [131、（0131）分割回文串](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md)
+##### [132、（0132）分割回文串 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2%20II.md)
+##### [133、（0133）clone graph](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%85%8B%E9%9A%86%E5%9B%BE.md)
+##### [134、（0134）gas station](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8A%A0%E6%B2%B9%E7%AB%99.md)
+##### [135、（0135）candy](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.md)
+##### [136、（0136）只出现一次的数字](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
+##### [137、（0137）只出现一次的数字 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20II.md)
+##### [138、（0138）复制带随机指针的链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.md)
+##### [139、（0139）单词拆分](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.md)
+##### [140、（0140）单词拆分 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86%20II.md)
+##### [141、（0141）环形链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md)
+##### [142、（0142）环形链表 II](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
+##### [143、（0143）重排链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md)
+##### [144、（0144）二叉树的前序遍历](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+##### [145、（0145）二叉树的后序遍历](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+##### [146、（0146）LRU 缓存机制](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
+##### [147、（0147）对链表进行插入排序](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+##### [148、（0148）排序链表](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+##### [149、（0149）直线上最多的点数](https://github.com/0voice/campus_recruitmen_questions/blob/main/leetcode/%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%9C%80%E5%A4%9A%E7%9A%84%E7%82%B9%E6%95%B0.md)
+##### [150、（0150）逆波兰表达式求值]()
 ##### 151、（0151）reverse words in a string
 ##### 152、（0152）乘积最大子数组
 ##### 153、（0153）寻找旋转排序数组中的最小值
