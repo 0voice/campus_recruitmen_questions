@@ -18,6 +18,12 @@
 * [字符串](#19)
 * [联系专栏](#22)
 
+## 📢 重磅消息 —— 更多资源repo：
+
+* **[最全空降Golang资料补给包（满血战斗）](https://github.com/0voice/Introduction-to-Golang)**
+* **[Linux内核学习资料](https://github.com/0voice/linux_kernel_wiki)**
+* **[1000+份计算机paper](https://github.com/0voice/computer_expert_paper)**
+
 
 <h3 id="1">:trophy: ACM</h3> 
 
